@@ -1,0 +1,2765 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 26, 2025 8:44:19 AM
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:rods/copper
+- createaddition:copper_rod
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:nuggets
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+
+#pixelmon:berries/natural_gift/rock
+- pixelmon:wiki_berry
+- pixelmon:magost_berry
+- pixelmon:charti_berry
+- pixelmon:micle_berry
+
+#forge:plates
+- create:copper_sheet
+- create:brass_sheet
+- create:iron_sheet
+- create:golden_sheet
+- createaddition:zinc_sheet
+- pixelmon:aluminium_plate
+
+#forge:eggs
+- minecraft:egg
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#pixelmon:trade_machines
+- pixelmon:white_trade_machine
+- pixelmon:orange_trade_machine
+- pixelmon:magenta_trade_machine
+- pixelmon:light_blue_trade_machine
+- pixelmon:yellow_trade_machine
+- pixelmon:lime_trade_machine
+- pixelmon:pink_trade_machine
+- pixelmon:gray_trade_machine
+- pixelmon:light_gray_trade_machine
+- pixelmon:cyan_trade_machine
+- pixelmon:purple_trade_machine
+- pixelmon:blue_trade_machine
+- pixelmon:brown_trade_machine
+- pixelmon:green_trade_machine
+- pixelmon:red_trade_machine
+- pixelmon:black_trade_machine
+
+#forge:plates/zinc
+- createaddition:zinc_sheet
+
+#forge:wires/gold
+- createaddition:gold_wire
+
+#forge:wires/copper
+- createaddition:copper_wire
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#forge:rods/gold
+- createaddition:gold_rod
+
+#pixelmon:berries/juice/3
+- #pixelmon:berries/juice/red/3
+- #pixelmon:berries/juice/purple/3
+- #pixelmon:berries/juice/pink/3
+- #pixelmon:berries/juice/green/3
+- #pixelmon:berries/juice/yellow/3
+- #pixelmon:berries/juice/blue/3
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#pixelmon:berries/juice/2
+- #pixelmon:berries/juice/red/2
+- #pixelmon:berries/juice/purple/2
+- #pixelmon:berries/juice/pink/2
+- #pixelmon:berries/juice/green/2
+- #pixelmon:berries/juice/yellow/2
+- #pixelmon:berries/juice/blue/2
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#pixelmon:berries/juice/1
+- #pixelmon:berries/juice/red/1
+- #pixelmon:berries/juice/purple/1
+- #pixelmon:berries/juice/pink/1
+- #pixelmon:berries/juice/green/1
+- #pixelmon:berries/juice/yellow/1
+- #pixelmon:berries/juice/blue/1
+
+#pixelmon:ultra_jungle_logs
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#pixelmon:berries/natural_gift/dark
+- pixelmon:iapapa_berry
+- pixelmon:spelon_berry
+- pixelmon:colbur_berry
+- pixelmon:rowap_berry
+- pixelmon:maranga_berry
+
+#forge:ingots/silver
+- pixelmon:silver_ingot
+
+#forge:ingots/platinum
+- pixelmon:platinum_ingot
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#create:upright_on_belt
+- create:blaze_cake_base
+- create:blaze_cake
+- create:creative_blaze_cake
+- create:builders_tea
+- minecraft:glass_bottle
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:honey_bottle
+- minecraft:cake
+- createaddition:cake_base
+- createaddition:cake_base_baked
+- createaddition:chocolate_cake
+- createaddition:honey_cake
+- minecraft:cake
+- createaddition:seed_oil_bucket
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:beacon_payment
+- #create:create_ingots
+
+#forge:glass/colorless
+- minecraft:glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#pixelmon:berries/natural_gift/water
+- pixelmon:chesto_berry
+- pixelmon:nanab_berry
+- pixelmon:durin_berry
+- pixelmon:passho_berry
+
+#pixelmon:berries/flavor/sweet
+- pixelmon:pecha_berry
+- pixelmon:leppa_berry
+- pixelmon:persim_berry
+- pixelmon:lum_berry
+- pixelmon:sitrus_berry
+- pixelmon:mago_berry
+- pixelmon:bluk_berry
+- pixelmon:nanab_berry
+- pixelmon:pomeg_berry
+- pixelmon:qualot_berry
+- pixelmon:grepa_berry
+- pixelmon:cornn_berry
+- pixelmon:magost_berry
+- pixelmon:pamtre_berry
+- pixelmon:watmel_berry
+- pixelmon:occa_berry
+- pixelmon:wacan_berry
+- pixelmon:shuca_berry
+- pixelmon:payapa_berry
+- pixelmon:kasib_berry
+- pixelmon:haban_berry
+- pixelmon:chilan_berry
+- pixelmon:roseli_berry
+- pixelmon:liechi_berry
+- pixelmon:ganlon_berry
+- pixelmon:salac_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:micle_berry
+- pixelmon:custap_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#pixelmon:berries/juice/pink/3
+- pixelmon:mago_berry
+- pixelmon:petaya_berry
+- pixelmon:roseli_berry
+
+#pixelmon:berries/juice/pink/2
+- pixelmon:persim_berry
+
+#forge:ores/zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#pixelmon:berries/juice/pink/1
+- pixelmon:pecha_berry
+- pixelmon:nanab_berry
+- pixelmon:magost_berry
+- pixelmon:watmel_berry
+
+#forge:nuggets/copper
+- create:copper_nugget
+
+#pixelmon:berries/natural_gift/ghost
+- pixelmon:mago_berry
+- pixelmon:rabuta_berry
+- pixelmon:kasib_berry
+- pixelmon:custap_berry
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#pixelmon:berries/natural_gift/poison
+- pixelmon:oran_berry
+- pixelmon:qualot_berry
+- pixelmon:kebia_berry
+- pixelmon:petaya_berry
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#pixelmon:berries/e_reader
+- pixelmon:drash_berry
+- pixelmon:eggant_berry
+- pixelmon:chilan_berry
+- pixelmon:ginema_berry
+- pixelmon:kuo_berry
+- pixelmon:niniku_berry
+- pixelmon:nutpea_berry
+- pixelmon:pumkin_berry
+- pixelmon:strib_berry
+- pixelmon:topo_berry
+- pixelmon:touga_berry
+- pixelmon:yago_berry
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#pixelmon:berries/juice/yellow/3
+- pixelmon:iapapa_berry
+- pixelmon:qualot_berry
+- pixelmon:grepa_berry
+- pixelmon:kee_berry
+- pixelmon:jaboca_berry
+
+#create:sandpaper
+- create:sand_paper
+- create:red_sand_paper
+- createaddition:diamond_grit_sandpaper
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#pixelmon:berries/juice/yellow/2
+- pixelmon:sitrus_berry
+- pixelmon:wacan_berry
+- pixelmon:shuca_berry
+- pixelmon:charti_berry
+- pixelmon:chilan_berry
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#pixelmon:berries/juice/yellow/1
+- pixelmon:aspear_berry
+- pixelmon:pinap_berry
+- pixelmon:nomel_berry
+
+#forge:ores/sapphire
+- pixelmon:sapphire_ore
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#forge:ingots
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+- #create:create_ingots
+- pixelmon:aluminium_ingot
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:bones
+- minecraft:bone
+
+#pixelmon:berries/juice/green
+- #pixelmon:berries/juice/green/1
+- #pixelmon:berries/juice/green/2
+- #pixelmon:berries/juice/green/3
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:storage_blocks/copper
+- create:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#forge:rods/all_metal
+- createaddition:iron_rod
+- createaddition:copper_rod
+- createaddition:gold_rod
+- createaddition:brass_rod
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+
+#pixelmon:uncleaned_fossils
+- pixelmon:covered_fossil_0
+- pixelmon:covered_fossil_1
+- pixelmon:covered_fossil_2
+- pixelmon:covered_fossil_3
+- pixelmon:covered_fossil_4
+- pixelmon:covered_fossil_5
+- pixelmon:covered_fossil_6
+- pixelmon:covered_fossil_7
+- pixelmon:covered_fossil_8
+- pixelmon:covered_fossil_9
+- pixelmon:covered_fossil_10
+- pixelmon:covered_fossil_11
+- pixelmon:covered_fossil_12
+- pixelmon:covered_fossil_13
+- pixelmon:covered_fossil_14
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:ores/copper
+- create:copper_ore
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#pixelmon:berries/flavor/spicy
+- pixelmon:cheri_berry
+- pixelmon:leppa_berry
+- pixelmon:oran_berry
+- pixelmon:persim_berry
+- pixelmon:lum_berry
+- pixelmon:figy_berry
+- pixelmon:razz_berry
+- pixelmon:pinap_berry
+- pixelmon:pomeg_berry
+- pixelmon:qualot_berry
+- pixelmon:hondew_berry
+- pixelmon:tamato_berry
+- pixelmon:nomel_berry
+- pixelmon:spelon_berry
+- pixelmon:belue_berry
+- pixelmon:occa_berry
+- pixelmon:rindo_berry
+- pixelmon:chople_berry
+- pixelmon:shuca_berry
+- pixelmon:tanga_berry
+- pixelmon:charti_berry
+- pixelmon:babiri_berry
+- pixelmon:liechi_berry
+- pixelmon:petaya_berry
+- pixelmon:apicot_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:pumkin_berry
+- pixelmon:drash_berry
+- pixelmon:eggant_berry
+- pixelmon:strib_berry
+- pixelmon:nutpea_berry
+- pixelmon:ginema_berry
+- pixelmon:kuo_berry
+- pixelmon:yago_berry
+- pixelmon:touga_berry
+- pixelmon:niniku_berry
+- pixelmon:topo_berry
+- pixelmon:enigma_berry
+- pixelmon:rowap_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#pixelmon:berries
+- #pixelmon:berries/firmness/hard
+- #pixelmon:berries/firmness/soft
+- #pixelmon:berries/firmness/super_hard
+- #pixelmon:berries/firmness/very_hard
+- #pixelmon:berries/firmness/very_soft
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#forge:ores/silicon
+- pixelmon:silicon_ore
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- pixelmon:blue_berry_wood_fence
+- pixelmon:green_berry_wood_fence
+- pixelmon:pink_berry_wood_fence
+- pixelmon:purple_berry_wood_fence
+- pixelmon:red_berry_wood_fence
+- pixelmon:yellow_berry_wood_fence
+- pixelmon:picket_fence
+- pixelmon:ultra_jungle_fence
+- pixelmon:ultra_gingko_fence
+- pixelmon:ultra_elm_fence
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#forge:rods/iron
+- createaddition:iron_rod
+
+#toms_storage:trims
+- toms_storage:ts.trim
+- toms_storage:ts.painted_trim
+
+#forge:obsidian
+- minecraft:obsidian
+
+#pixelmon:folding_chairs
+- pixelmon:white_folding_chair
+- pixelmon:orange_folding_chair
+- pixelmon:magenta_folding_chair
+- pixelmon:light_blue_folding_chair
+- pixelmon:yellow_folding_chair
+- pixelmon:lime_folding_chair
+- pixelmon:pink_folding_chair
+- pixelmon:gray_folding_chair
+- pixelmon:light_gray_folding_chair
+- pixelmon:cyan_folding_chair
+- pixelmon:purple_folding_chair
+- pixelmon:blue_folding_chair
+- pixelmon:brown_folding_chair
+- pixelmon:green_folding_chair
+- pixelmon:red_folding_chair
+- pixelmon:black_folding_chair
+
+#forge:rods/brass
+- createaddition:brass_rod
+
+#forge:buckets/honey
+- create:honey_bucket
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- pixelmon:blue_berry_wood_sign
+- pixelmon:green_berry_wood_sign
+- pixelmon:pink_berry_wood_sign
+- pixelmon:purple_berry_wood_sign
+- pixelmon:red_berry_wood_sign
+- pixelmon:yellow_berry_wood_sign
+- pixelmon:ultra_gingko_sign
+- pixelmon:ultra_elm_sign
+- pixelmon:ultra_jungle_sign
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#waystones:sharestone
+- waystones:sharestone
+- waystones:white_sharestone
+- waystones:orange_sharestone
+- waystones:magenta_sharestone
+- waystones:light_blue_sharestone
+- waystones:yellow_sharestone
+- waystones:lime_sharestone
+- waystones:pink_sharestone
+- waystones:gray_sharestone
+- waystones:light_gray_sharestone
+- waystones:cyan_sharestone
+- waystones:purple_sharestone
+- waystones:blue_sharestone
+- waystones:brown_sharestone
+- waystones:green_sharestone
+- waystones:red_sharestone
+- waystones:black_sharestone
+
+#pixelmon:flutes
+- pixelmon:black_flute
+- pixelmon:blue_flute
+- pixelmon:green_flute
+- pixelmon:red_flute
+- pixelmon:white_flute
+- pixelmon:yellow_flute
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#pixelmon:berry_planks
+- pixelmon:red_berry_wood_planks
+- pixelmon:purple_berry_wood_planks
+- pixelmon:pink_berry_wood_planks
+- pixelmon:green_berry_wood_planks
+- pixelmon:yellow_berry_wood_planks
+- pixelmon:blue_berry_wood_planks
+
+#forge:feathers
+- minecraft:feather
+
+#forge:ingots/crystal
+- pixelmon:crystal
+
+#pixelmon:berries/juice/blue
+- #pixelmon:berries/juice/blue/1
+- #pixelmon:berries/juice/blue/2
+- #pixelmon:berries/juice/blue/3
+
+#forge:string
+- minecraft:string
+
+#forge:sand/colorless
+- minecraft:sand
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#pixelmon:vendable
+- pixelmon:fresh_water
+- pixelmon:soda_pop
+- pixelmon:rare_soda
+- pixelmon:ultra_rare_soda
+- pixelmon:lemonade
+- pixelmon:moomoo_milk
+- pixelmon:berry_juice
+- pixelmon:soda_pop
+- pixelmon:curry_coconut
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#pixelmon:berries/natural_gift/electric
+- pixelmon:pecha_berry
+- pixelmon:wepear_berry
+- pixelmon:belue_berry
+- pixelmon:wacan_berry
+
+#forge:leather
+- minecraft:leather
+
+#pixelmon:chairs
+- pixelmon:white_chair
+- pixelmon:orange_chair
+- pixelmon:magenta_chair
+- pixelmon:light_blue_chair
+- pixelmon:yellow_chair
+- pixelmon:lime_chair
+- pixelmon:pink_chair
+- pixelmon:gray_chair
+- pixelmon:light_gray_chair
+- pixelmon:cyan_chair
+- pixelmon:purple_chair
+- pixelmon:blue_chair
+- pixelmon:brown_chair
+- pixelmon:green_chair
+- pixelmon:red_chair
+- pixelmon:black_chair
+
+#forge:nuggets/brass
+- create:brass_nugget
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#pixelmon:ultra_gingko_logs
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+
+#forge:ores/crystal
+- pixelmon:crystal_ore
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+- pixelmon:blue_berry_wood_boat
+- pixelmon:green_berry_wood_boat
+- pixelmon:pink_berry_wood_boat
+- pixelmon:purple_berry_wood_boat
+- pixelmon:red_berry_wood_boat
+- pixelmon:yellow_berry_wood_boat
+- pixelmon:ultra_jungle_boat
+- pixelmon:ultra_gingko_boat
+- pixelmon:ultra_elm_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- pixelmon:berry_leaves_cheri
+- pixelmon:berry_leaves_chesto
+- pixelmon:berry_leaves_pecha
+- pixelmon:berry_leaves_rawst
+- pixelmon:berry_leaves_aspear
+- pixelmon:berry_leaves_leppa
+- pixelmon:berry_leaves_oran
+- pixelmon:berry_leaves_persim
+- pixelmon:berry_leaves_lum
+- pixelmon:berry_leaves_sitrus
+- pixelmon:berry_leaves_figy
+- pixelmon:berry_leaves_wiki
+- pixelmon:berry_leaves_mago
+- pixelmon:berry_leaves_iapapa
+- pixelmon:berry_leaves_razz
+- pixelmon:berry_leaves_bluk
+- pixelmon:berry_leaves_nanab
+- pixelmon:berry_leaves_wepear
+- pixelmon:berry_leaves_pinap
+- pixelmon:berry_leaves_pomeg
+- pixelmon:berry_leaves_kelpsy
+- pixelmon:berry_leaves_qualot
+- pixelmon:berry_leaves_hondew
+- pixelmon:berry_leaves_grepa
+- pixelmon:berry_leaves_tamato
+- pixelmon:berry_leaves_cornn
+- pixelmon:berry_leaves_magost
+- pixelmon:berry_leaves_rabuta
+- pixelmon:berry_leaves_nomel
+- pixelmon:berry_leaves_spelon
+- pixelmon:berry_leaves_pamtre
+- pixelmon:berry_leaves_watmel
+- pixelmon:berry_leaves_durin
+- pixelmon:berry_leaves_belue
+- pixelmon:berry_leaves_occa
+- pixelmon:berry_leaves_passho
+- pixelmon:berry_leaves_wacan
+- pixelmon:berry_leaves_rindo
+- pixelmon:berry_leaves_yache
+- pixelmon:berry_leaves_chople
+- pixelmon:berry_leaves_kebia
+- pixelmon:berry_leaves_shuca
+- pixelmon:berry_leaves_coba
+- pixelmon:berry_leaves_payapa
+- pixelmon:berry_leaves_tanga
+- pixelmon:berry_leaves_charti
+- pixelmon:berry_leaves_kasib
+- pixelmon:berry_leaves_haban
+- pixelmon:berry_leaves_colbur
+- pixelmon:berry_leaves_babiri
+- pixelmon:berry_leaves_chilan
+- pixelmon:berry_leaves_roseli
+- pixelmon:berry_leaves_liechi
+- pixelmon:berry_leaves_ganlon
+- pixelmon:berry_leaves_salac
+- pixelmon:berry_leaves_petaya
+- pixelmon:berry_leaves_apicot
+- pixelmon:berry_leaves_lansat
+- pixelmon:berry_leaves_starf
+- pixelmon:berry_leaves_pumkin
+- pixelmon:berry_leaves_drash
+- pixelmon:berry_leaves_eggant
+- pixelmon:berry_leaves_strib
+- pixelmon:berry_leaves_nutpea
+- pixelmon:berry_leaves_ginema
+- pixelmon:berry_leaves_kuo
+- pixelmon:berry_leaves_yago
+- pixelmon:berry_leaves_touga
+- pixelmon:berry_leaves_niniku
+- pixelmon:berry_leaves_topo
+- pixelmon:berry_leaves_enigma
+- pixelmon:berry_leaves_micle
+- pixelmon:berry_leaves_jaboca
+- pixelmon:berry_leaves_rowap
+- pixelmon:berry_leaves_kee
+- pixelmon:berry_leaves_maranga
+- pixelmon:berry_leaves_aguav
+- pixelmon:berry_leaves_custap
+- pixelmon:ultra_jungle_leaves
+- pixelmon:ultra_elm_leaves
+- pixelmon:ultra_gingko_leaves
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#pixelmon:cleaned_fossils
+- pixelmon:helix_fossil
+- pixelmon:dome_fossil
+- pixelmon:old_amber
+- pixelmon:root_fossil
+- pixelmon:claw_fossil
+- pixelmon:skull_fossil
+- pixelmon:armor_fossil
+- pixelmon:cover_fossil
+- pixelmon:plume_fossil
+- pixelmon:jaw_fossil
+- pixelmon:sail_fossil
+- pixelmon:bird_fossil
+- pixelmon:dino_fossil
+- pixelmon:drake_fossil
+- pixelmon:fish_fossil
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+
+#pixelmon:berries/firmness/hard
+- pixelmon:cornn_berry
+- pixelmon:durin_berry
+- pixelmon:enigma_berry
+- pixelmon:hondew_berry
+- pixelmon:kasib_berry
+- pixelmon:kebia_berry
+- pixelmon:kelpsy_berry
+- pixelmon:kuo_berry
+- pixelmon:mago_berry
+- pixelmon:magost_berry
+- pixelmon:niniku_berry
+- pixelmon:persim_berry
+- pixelmon:pinap_berry
+- pixelmon:qualot_berry
+- pixelmon:rawst_berry
+- pixelmon:roseli_berry
+- pixelmon:strib_berry
+- pixelmon:wiki_berry
+
+#pixelmon:berries/natural_gift/fire
+- pixelmon:cheri_berry
+- pixelmon:bluk_berry
+- pixelmon:watmel_berry
+- pixelmon:occa_berry
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#forge:crops/potato
+- minecraft:potato
+
+#forge:ores/amethyst
+- pixelmon:amethyst_ore
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#pixelmon:vending_machines
+- pixelmon:white_vending_machine
+- pixelmon:orange_vending_machine
+- pixelmon:magenta_vending_machine
+- pixelmon:light_blue_vending_machine
+- pixelmon:yellow_vending_machine
+- pixelmon:lime_vending_machine
+- pixelmon:pink_vending_machine
+- pixelmon:gray_vending_machine
+- pixelmon:light_gray_vending_machine
+- pixelmon:cyan_vending_machine
+- pixelmon:purple_vending_machine
+- pixelmon:blue_vending_machine
+- pixelmon:brown_vending_machine
+- pixelmon:green_vending_machine
+- pixelmon:red_vending_machine
+- pixelmon:black_vending_machine
+
+#forge:ores/ruby
+- pixelmon:ruby_ore
+
+#pixelmon:berries/natural_gift/flying
+- pixelmon:lum_berry
+- pixelmon:grepa_berry
+- pixelmon:coba_berry
+- pixelmon:lansat_berry
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- create:golden_sheet
+- create:crushed_gold_ore
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- pixelmon:raid_music_disc
+- pixelmon:wild_music_disc
+- pixelmon:player_music_disc
+- pixelmon:trainer_music_disc
+- pixelmon:gym_music_disc
+- pixelmon:boss_music_disc
+- pixelmon:legendary_music_disc
+- pixelmon:ultraspace_music_disc
+- pixelmon:pokecenter_music_disc
+
+#pixelmon:berries/firmness/very_hard
+- pixelmon:apicot_berry
+- pixelmon:coba_berry
+- pixelmon:drash_berry
+- pixelmon:ganlon_berry
+- pixelmon:ginema_berry
+- pixelmon:leppa_berry
+- pixelmon:liechi_berry
+- pixelmon:nanab_berry
+- pixelmon:petaya_berry
+- pixelmon:pomeg_berry
+- pixelmon:razz_berry
+- pixelmon:salac_berry
+- pixelmon:sitrus_berry
+- pixelmon:topo_berry
+- pixelmon:yache_berry
+- pixelmon:yago_berry
+- pixelmon:maranga_berry
+- pixelmon:kee_berry
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#forge:gems
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- pixelmon:silicon
+- pixelmon:crystal
+- pixelmon:ruby
+- pixelmon:amethyst
+- pixelmon:sapphire
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#forge:sand/red
+- minecraft:red_sand
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- pixelmon:berry_log
+- pixelmon:apricorn_log
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+
+#forge:ingots/aluminum
+- pixelmon:aluminium_ingot
+
+#pixelmon:berries/juice/blue/1
+- pixelmon:oran_berry
+
+#pixelmon:berries/juice/blue/2
+- pixelmon:passho_berry
+- pixelmon:yache_berry
+- pixelmon:coba_berry
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#pixelmon:berries/juice/blue/3
+- pixelmon:kelpsy_berry
+- pixelmon:apicot_berry
+- pixelmon:maranga_berry
+- pixelmon:rowap_berry
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:storage_blocks
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#pixelmon:cushion_chairs
+- pixelmon:white_cushion_chair
+- pixelmon:orange_cushion_chair
+- pixelmon:magenta_cushion_chair
+- pixelmon:light_blue_cushion_chair
+- pixelmon:yellow_cushion_chair
+- pixelmon:lime_cushion_chair
+- pixelmon:pink_cushion_chair
+- pixelmon:gray_cushion_chair
+- pixelmon:light_gray_cushion_chair
+- pixelmon:cyan_cushion_chair
+- pixelmon:purple_cushion_chair
+- pixelmon:blue_cushion_chair
+- pixelmon:brown_cushion_chair
+- pixelmon:green_cushion_chair
+- pixelmon:red_cushion_chair
+- pixelmon:black_cushion_chair
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+
+#forge:ingots/copper
+- create:copper_ingot
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- pixelmon:blue_berry_wood_slab
+- pixelmon:green_berry_wood_slab
+- pixelmon:pink_berry_wood_slab
+- pixelmon:purple_berry_wood_slab
+- pixelmon:red_berry_wood_slab
+- pixelmon:yellow_berry_wood_slab
+- pixelmon:ultra_jungle_slab
+- pixelmon:ultra_gingko_slab
+- pixelmon:ultra_elm_slab
+
+#forge:ingots/brick
+- minecraft:brick
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#forge:plates/aluminum
+- pixelmon:aluminium_plate
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- pixelmon:blue_berry_wood_trapdoor
+- pixelmon:green_berry_wood_trapdoor
+- pixelmon:pink_berry_wood_trapdoor
+- pixelmon:purple_berry_wood_trapdoor
+- pixelmon:red_berry_wood_trapdoor
+- pixelmon:yellow_berry_wood_trapdoor
+- pixelmon:ultra_gingko_trapdoor
+- pixelmon:ultra_elm_trapdoor
+- pixelmon:ultra_jungle_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#forge:wires
+- createaddition:copper_wire
+- createaddition:iron_wire
+- createaddition:gold_wire
+
+#forge:ingots/brass
+- create:brass_ingot
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#pixelmon:braille_block
+- pixelmon:braille_block_a
+- pixelmon:braille_block_b
+- pixelmon:braille_block_c
+- pixelmon:braille_block_d
+- pixelmon:braille_block_e
+- pixelmon:braille_block_f
+- pixelmon:braille_block_g
+- pixelmon:braille_block_h
+- pixelmon:braille_block_i
+- pixelmon:braille_block_j
+- pixelmon:braille_block_k
+- pixelmon:braille_block_l
+- pixelmon:braille_block_m
+- pixelmon:braille_block_n
+- pixelmon:braille_block_o
+- pixelmon:braille_block_p
+- pixelmon:braille_block_q
+- pixelmon:braille_block_r
+- pixelmon:braille_block_s
+- pixelmon:braille_block_t
+- pixelmon:braille_block_u
+- pixelmon:braille_block_v
+- pixelmon:braille_block_w
+- pixelmon:braille_block_x
+- pixelmon:braille_block_y
+- pixelmon:braille_block_z
+- pixelmon:braille_block_stop
+- pixelmon:braille_block_comma
+- pixelmon:braille_block_underscore
+- pixelmon:braille_block_blank
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#forge:gems/sapphire
+- pixelmon:sapphire
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#pixelmon:berries/natural_gift/bug
+- pixelmon:figy_berry
+- pixelmon:cornn_berry
+- pixelmon:tanga_berry
+- pixelmon:enigma_berry
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- pixelmon:berry_log
+- pixelmon:apricorn_log
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#pixelmon:badgecases
+- pixelmon:blackbadgecase
+- pixelmon:bluebadgecase
+- pixelmon:greenbadgecase
+- pixelmon:pinkbadgecase
+- pixelmon:redbadgecase
+- pixelmon:whitebadgecase
+- pixelmon:yellowbadgecase
+
+#pixelmon:poke_sand
+- pixelmon:poke_sand_corner1
+- pixelmon:poke_sand_corner2
+- pixelmon:poke_sand_corner3
+- pixelmon:poke_sand_corner4
+- pixelmon:poke_sand_side1
+- pixelmon:poke_sand_side2
+- pixelmon:poke_sand_side3
+- pixelmon:poke_sand_side4
+- pixelmon:poke_sand
+
+#pixelmon:berries/natural_gift/normal
+- pixelmon:chilan_berry
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+
+#pixelmon:berries/natural_gift/ice
+- pixelmon:aspear_berry
+- pixelmon:pomeg_berry
+- pixelmon:yache_berry
+- pixelmon:ganlon_berry
+
+#pixelmon:pokeball_bases
+- pixelmon:iron_base
+- pixelmon:aluminum_base
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- pixelmon:blue_berry_wood_door
+- pixelmon:green_berry_wood_door
+- pixelmon:pink_berry_wood_door
+- pixelmon:purple_berry_wood_door
+- pixelmon:red_berry_wood_door
+- pixelmon:yellow_berry_wood_door
+- pixelmon:ultra_gingko_door
+- pixelmon:ultra_elm_door
+- pixelmon:ultra_jungle_door
+
+#pixelmon:berries/firmness/super_hard
+- pixelmon:aguav_berry
+- pixelmon:aspear_berry
+- pixelmon:babiri_berry
+- pixelmon:chesto_berry
+- pixelmon:colbur_berry
+- pixelmon:custap_berry
+- pixelmon:lum_berry
+- pixelmon:nomel_berry
+- pixelmon:nutpea_berry
+- pixelmon:occa_berry
+- pixelmon:oran_berry
+- pixelmon:pumkin_berry
+- pixelmon:starf_berry
+- pixelmon:touga_berry
+- pixelmon:wepear_berry
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#forge:plates/brass
+- create:brass_sheet
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#pixelmon:berries/natural_gift/dragon
+- pixelmon:aguav_berry
+- pixelmon:nomel_berry
+- pixelmon:haban_berry
+- pixelmon:jaboca_berry
+
+#pixelmon:berries/natural_gift/steel
+- pixelmon:razz_berry
+- pixelmon:pamtre_berry
+- pixelmon:babiri_berry
+
+#create:crushed_ores
+- create:crushed_iron_ore
+- create:crushed_gold_ore
+- create:crushed_copper_ore
+- create:crushed_zinc_ore
+- create:crushed_brass
+- create:crushed_osmium_ore
+- create:crushed_platinum_ore
+- create:crushed_silver_ore
+- create:crushed_tin_ore
+- create:crushed_lead_ore
+- create:crushed_quicksilver_ore
+- create:crushed_aluminum_ore
+- create:crushed_uranium_ore
+- create:crushed_nickel_ore
+
+#pixelmon:berries/juice/red
+- #pixelmon:berries/juice/red/1
+- #pixelmon:berries/juice/red/2
+- #pixelmon:berries/juice/red/3
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+
+#pixelmon:healers
+- pixelmon:white_healer
+- pixelmon:orange_healer
+- pixelmon:magenta_healer
+- pixelmon:light_blue_healer
+- pixelmon:yellow_healer
+- pixelmon:lime_healer
+- pixelmon:pink_healer
+- pixelmon:gray_healer
+- pixelmon:light_gray_healer
+- pixelmon:cyan_healer
+- pixelmon:purple_healer
+- pixelmon:blue_healer
+- pixelmon:brown_healer
+- pixelmon:green_healer
+- pixelmon:red_healer
+- pixelmon:black_healer
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#pixelmon:apricorns
+- pixelmon:black_apricorn
+- pixelmon:blue_apricorn
+- pixelmon:green_apricorn
+- pixelmon:pink_apricorn
+- pixelmon:red_apricorn
+- pixelmon:white_apricorn
+- pixelmon:yellow_apricorn
+
+#pixelmon:berries/juice/purple
+- #pixelmon:berries/juice/purple/1
+- #pixelmon:berries/juice/purple/2
+- #pixelmon:berries/juice/purple/3
+
+#waystones:dyed_sharestone
+- waystones:white_sharestone
+- waystones:orange_sharestone
+- waystones:magenta_sharestone
+- waystones:light_blue_sharestone
+- waystones:yellow_sharestone
+- waystones:lime_sharestone
+- waystones:pink_sharestone
+- waystones:gray_sharestone
+- waystones:light_gray_sharestone
+- waystones:cyan_sharestone
+- waystones:purple_sharestone
+- waystones:blue_sharestone
+- waystones:brown_sharestone
+- waystones:green_sharestone
+- waystones:red_sharestone
+- waystones:black_sharestone
+
+#pixelmon:pcs
+- pixelmon:white_pc
+- pixelmon:orange_pc
+- pixelmon:magenta_pc
+- pixelmon:light_blue_pc
+- pixelmon:yellow_pc
+- pixelmon:lime_pc
+- pixelmon:pink_pc
+- pixelmon:gray_pc
+- pixelmon:light_gray_pc
+- pixelmon:cyan_pc
+- pixelmon:purple_pc
+- pixelmon:blue_pc
+- pixelmon:brown_pc
+- pixelmon:green_pc
+- pixelmon:red_pc
+- pixelmon:black_pc
+
+#pixelmon:berries/flavor/dry
+- pixelmon:chesto_berry
+- pixelmon:oran_berry
+- pixelmon:persim_berry
+- pixelmon:lum_berry
+- pixelmon:sitrus_berry
+- pixelmon:wiki_berry
+- pixelmon:razz_berry
+- pixelmon:bluk_berry
+- pixelmon:kelpsy_berry
+- pixelmon:hondew_berry
+- pixelmon:grepa_berry
+- pixelmon:tamato_berry
+- pixelmon:cornn_berry
+- pixelmon:spelon_berry
+- pixelmon:pamtre_berry
+- pixelmon:passho_berry
+- pixelmon:yache_berry
+- pixelmon:kebia_berry
+- pixelmon:coba_berry
+- pixelmon:charti_berry
+- pixelmon:kasib_berry
+- pixelmon:babiri_berry
+- pixelmon:chilan_berry
+- pixelmon:liechi_berry
+- pixelmon:ganlon_berry
+- pixelmon:apicot_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:pumkin_berry
+- pixelmon:drash_berry
+- pixelmon:eggant_berry
+- pixelmon:strib_berry
+- pixelmon:nutpea_berry
+- pixelmon:ginema_berry
+- pixelmon:kuo_berry
+- pixelmon:yago_berry
+- pixelmon:touga_berry
+- pixelmon:niniku_berry
+- pixelmon:topo_berry
+- pixelmon:enigma_berry
+- pixelmon:micle_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:ores/silver
+- pixelmon:silver_ore
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#pixelmon:berries/natural_gift/fighting
+- pixelmon:leppa_berry
+- pixelmon:kelpsy_berry
+- pixelmon:chople_berry
+- pixelmon:salac_berry
+
+#pixelmon:berries/flavor/sour
+- pixelmon:aspear_berry
+- pixelmon:leppa_berry
+- pixelmon:oran_berry
+- pixelmon:persim_berry
+- pixelmon:sitrus_berry
+- pixelmon:iapapa_berry
+- pixelmon:wepear_berry
+- pixelmon:pinap_berry
+- pixelmon:kelpsy_berry
+- pixelmon:qualot_berry
+- pixelmon:grepa_berry
+- pixelmon:rabuta_berry
+- pixelmon:nomel_berry
+- pixelmon:durin_berry
+- pixelmon:belue_berry
+- pixelmon:wacan_berry
+- pixelmon:yache_berry
+- pixelmon:kebia_berry
+- pixelmon:payapa_berry
+- pixelmon:tanga_berry
+- pixelmon:colbur_berry
+- pixelmon:salac_berry
+- pixelmon:petaya_berry
+- pixelmon:apicot_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:jaboca_berry
+- pixelmon:rowap_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#pixelmon:mugs
+- pixelmon:mug_base
+- pixelmon:mug_ball
+- pixelmon:mug_pika
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#pixelmon:berries/flavor/bitter
+- pixelmon:rawst_berry
+- pixelmon:leppa_berry
+- pixelmon:oran_berry
+- pixelmon:lum_berry
+- pixelmon:sitrus_berry
+- pixelmon:nanab_berry
+- pixelmon:wepear_berry
+- pixelmon:pomeg_berry
+- pixelmon:kelpsy_berry
+- pixelmon:hondew_berry
+- pixelmon:magost_berry
+- pixelmon:rabuta_berry
+- pixelmon:watmel_berry
+- pixelmon:durin_berry
+- pixelmon:passho_berry
+- pixelmon:rindo_berry
+- pixelmon:chople_berry
+- pixelmon:coba_berry
+- pixelmon:haban_berry
+- pixelmon:colbur_berry
+- pixelmon:roseli_berry
+- pixelmon:ganlon_berry
+- pixelmon:salac_berry
+- pixelmon:petaya_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:custap_berry
+- pixelmon:jaboca_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+- pixelmon:aguav_berry
+
+#pixelmon:armchairs
+- pixelmon:white_armchair
+- pixelmon:orange_armchair
+- pixelmon:magenta_armchair
+- pixelmon:light_blue_armchair
+- pixelmon:yellow_armchair
+- pixelmon:lime_armchair
+- pixelmon:pink_armchair
+- pixelmon:gray_armchair
+- pixelmon:light_gray_armchair
+- pixelmon:cyan_armchair
+- pixelmon:purple_armchair
+- pixelmon:blue_armchair
+- pixelmon:brown_armchair
+- pixelmon:green_armchair
+- pixelmon:red_armchair
+- pixelmon:black_armchair
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#forge:dusts
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+- createaddition:diamond_grit
+- create:powdered_obsidian
+
+#pixelmon:berries/juice/yellow
+- #pixelmon:berries/juice/yellow/1
+- #pixelmon:berries/juice/yellow/2
+- #pixelmon:berries/juice/yellow/3
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:gems/crystal
+- pixelmon:crystal
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#pixelmon:rugs
+- pixelmon:white_rug
+- pixelmon:orange_rug
+- pixelmon:magenta_rug
+- pixelmon:light_blue_rug
+- pixelmon:yellow_rug
+- pixelmon:lime_rug
+- pixelmon:pink_rug
+- pixelmon:gray_rug
+- pixelmon:light_gray_rug
+- pixelmon:cyan_rug
+- pixelmon:purple_rug
+- pixelmon:blue_rug
+- pixelmon:brown_rug
+- pixelmon:green_rug
+- pixelmon:red_rug
+- pixelmon:black_rug
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+
+#forge:ingots/zinc
+- create:zinc_ingot
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#pixelmon:curry_ingredient
+- pixelmon:curry_toast
+- pixelmon:curry_pasta
+- pixelmon:curry_fried_food
+- pixelmon:curry_instant_noodle
+- pixelmon:curry_burger
+- pixelmon:curry_sausage
+- pixelmon:curry_beans
+- pixelmon:curry_mushroom
+- pixelmon:curry_potato
+- pixelmon:curry_salad
+- pixelmon:curry_seasoned
+- pixelmon:curry_juicy
+- pixelmon:curry_rich
+- pixelmon:curry_bone
+- pixelmon:curry_herb
+- pixelmon:curry_cream
+- pixelmon:curry_decorative
+- pixelmon:curry_coconut
+- pixelmon:curry_smoke_poke
+- pixelmon:curry_leek
+- pixelmon:curry_apple
+- pixelmon:curry_boiled_egg
+- pixelmon:curry_tropical
+- pixelmon:curry_cheese
+- pixelmon:curry_gigantamix
+
+#forge:nuggets/zinc
+- create:zinc_nugget
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#curios:belt
+- toms_storage:ts.adv_wireless_terminal
+
+#pixelmon:berries/juice/green/2
+- pixelmon:lum_berry
+- pixelmon:rindo_berry
+- pixelmon:kebia_berry
+- pixelmon:tanga_berry
+- pixelmon:babiri_berry
+
+#pixelmon:berries/juice/green/3
+- pixelmon:aguav_berry
+- pixelmon:hondew_berry
+- pixelmon:salac_berry
+- pixelmon:starf_berry
+- pixelmon:micle_berry
+
+#forge:slimeballs
+- minecraft:slime_ball
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#pixelmon:berries/juice/green/1
+- pixelmon:rawst_berry
+- pixelmon:wepear_berry
+- pixelmon:rabuta_berry
+- pixelmon:durin_berry
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+- createaddition:iron_rod
+- createaddition:copper_rod
+- createaddition:gold_rod
+- createaddition:brass_rod
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#pixelmon:berries/juice/red/3
+- pixelmon:figy_berry
+- pixelmon:pomeg_berry
+- pixelmon:tamato_berry
+- pixelmon:liechi_berry
+- pixelmon:lansat_berry
+- pixelmon:custap_berry
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#pixelmon:berries/juice/red/2
+- pixelmon:occa_berry
+- pixelmon:chople_berry
+- pixelmon:haban_berry
+
+#pixelmon:berries/juice/pink
+- #pixelmon:berries/juice/pink/1
+- #pixelmon:berries/juice/pink/2
+- #pixelmon:berries/juice/pink/3
+
+#pixelmon:berries/juice/red/1
+- pixelmon:cheri_berry
+- pixelmon:leppa_berry
+- pixelmon:razz_berry
+- pixelmon:spelon_berry
+
+#forge:wires/iron
+- createaddition:iron_wire
+
+#forge:gems/silicon
+- pixelmon:silicon
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#pixelmon:water_floats
+- pixelmon:white_water_float
+- pixelmon:orange_water_float
+- pixelmon:magenta_water_float
+- pixelmon:light_blue_water_float
+- pixelmon:yellow_water_float
+- pixelmon:lime_water_float
+- pixelmon:pink_water_float
+- pixelmon:gray_water_float
+- pixelmon:light_gray_water_float
+- pixelmon:cyan_water_float
+- pixelmon:purple_water_float
+- pixelmon:blue_water_float
+- pixelmon:brown_water_float
+- pixelmon:green_water_float
+- pixelmon:red_water_float
+- pixelmon:black_water_float
+
+#pixelmon:ultra_elm_logs
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#pixelmon:berries/firmness/soft
+- pixelmon:bluk_berry
+- pixelmon:cheri_berry
+- pixelmon:chilan_berry
+- pixelmon:chople_berry
+- pixelmon:eggant_berry
+- pixelmon:figy_berry
+- pixelmon:grepa_berry
+- pixelmon:haban_berry
+- pixelmon:iapapa_berry
+- pixelmon:jaboca_berry
+- pixelmon:lansat_berry
+- pixelmon:micle_berry
+- pixelmon:passho_berry
+- pixelmon:payapa_berry
+- pixelmon:rabuta_berry
+- pixelmon:rindo_berry
+- pixelmon:shuca_berry
+- pixelmon:spelon_berry
+- pixelmon:tamato_berry
+- pixelmon:watmel_berry
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- pixelmon:blue_berry_wood_stairs
+- pixelmon:green_berry_wood_stairs
+- pixelmon:pink_berry_wood_stairs
+- pixelmon:purple_berry_wood_stairs
+- pixelmon:red_berry_wood_stairs
+- pixelmon:yellow_berry_wood_stairs
+- pixelmon:ultra_gingko_stairs
+- pixelmon:ultra_elm_stairs
+- pixelmon:ultra_jungle_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- pixelmon:blue_berry_wood_button
+- pixelmon:green_berry_wood_button
+- pixelmon:pink_berry_wood_button
+- pixelmon:purple_berry_wood_button
+- pixelmon:red_berry_wood_button
+- pixelmon:yellow_berry_wood_button
+- pixelmon:ultra_gingko_button
+- pixelmon:ultra_elm_button
+- pixelmon:ultra_jungle_button
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#pixelmon:berries/juice/purple/3
+- pixelmon:wiki_berry
+- pixelmon:ganlon_berry
+- pixelmon:enigma_berry
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#forge:shears
+- minecraft:shears
+
+#pixelmon:berries/juice/purple/1
+- pixelmon:chesto_berry
+- pixelmon:bluk_berry
+- pixelmon:cornn_berry
+- pixelmon:pamtre_berry
+- pixelmon:belue_berry
+
+#pixelmon:berries/natural_gift/psychic
+- pixelmon:sitrus_berry
+- pixelmon:tamato_berry
+- pixelmon:payapa_berry
+- pixelmon:starf_berry
+
+#pixelmon:berries/juice/purple/2
+- pixelmon:payapa_berry
+- pixelmon:kasib_berry
+- pixelmon:colbur_berry
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#forge:gems/ruby
+- pixelmon:ruby
+
+#forge:plates/gold
+- create:golden_sheet
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#pixelmon:berries/firmness/very_soft
+- pixelmon:belue_berry
+- pixelmon:charti_berry
+- pixelmon:chilan_berry
+- pixelmon:pamtre_berry
+- pixelmon:pecha_berry
+- pixelmon:rowap_berry
+- pixelmon:tanga_berry
+- pixelmon:wacan_berry
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#forge:dusts/diamond
+- createaddition:diamond_grit
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#forge:plates/iron
+- create:iron_sheet
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- pixelmon:blue_berry_wood_planks
+- pixelmon:green_berry_wood_planks
+- pixelmon:pink_berry_wood_planks
+- pixelmon:purple_berry_wood_planks
+- pixelmon:red_berry_wood_planks
+- pixelmon:yellow_berry_wood_planks
+- pixelmon:ultra_jungle_planks
+- pixelmon:ultra_gingko_planks
+- pixelmon:ultra_elm_planks
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+
+#pixelmon:unown_block
+- pixelmon:unown_block_a
+- pixelmon:unown_block_b
+- pixelmon:unown_block_c
+- pixelmon:unown_block_d
+- pixelmon:unown_block_e
+- pixelmon:unown_block_f
+- pixelmon:unown_block_g
+- pixelmon:unown_block_h
+- pixelmon:unown_block_i
+- pixelmon:unown_block_j
+- pixelmon:unown_block_k
+- pixelmon:unown_block_l
+- pixelmon:unown_block_m
+- pixelmon:unown_block_n
+- pixelmon:unown_block_o
+- pixelmon:unown_block_p
+- pixelmon:unown_block_q
+- pixelmon:unown_block_r
+- pixelmon:unown_block_s
+- pixelmon:unown_block_t
+- pixelmon:unown_block_u
+- pixelmon:unown_block_v
+- pixelmon:unown_block_w
+- pixelmon:unown_block_x
+- pixelmon:unown_block_y
+- pixelmon:unown_block_z
+- pixelmon:unown_block_exclaim
+- pixelmon:unown_block_question
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:gems/amethyst
+- pixelmon:amethyst
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#minecraft:fence_gates
+- pixelmon:blue_berry_wood_fence_gate
+- pixelmon:green_berry_wood_fence_gate
+- pixelmon:pink_berry_wood_fence_gate
+- pixelmon:purple_berry_wood_fence_gate
+- pixelmon:red_berry_wood_fence_gate
+- pixelmon:yellow_berry_wood_fence_gate
+- pixelmon:ultra_jungle_fence_gate
+- pixelmon:ultra_gingko_fence_gate
+- pixelmon:ultra_elm_fence_gate
+- pixelmon:blue_berry_wood_fence_gate
+- pixelmon:green_berry_wood_fence_gate
+- pixelmon:pink_berry_wood_fence_gate
+- pixelmon:purple_berry_wood_fence_gate
+- pixelmon:red_berry_wood_fence_gate
+- pixelmon:yellow_berry_wood_fence_gate
+- pixelmon:ultra_jungle_fence_gate
+- pixelmon:ultra_gingko_fence_gate
+- pixelmon:ultra_elm_fence_gate
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- create:copper_ore
+- create:zinc_ore
+- pixelmon:moon_stone_ore
+- pixelmon:ice_stone_ore
+- pixelmon:shiny_stone_ore
+- pixelmon:thunder_stone_ore
+- pixelmon:leaf_stone_ore
+- pixelmon:water_stone_ore
+- pixelmon:fire_stone_ore
+- pixelmon:sun_stone_ore
+- pixelmon:dusk_stone_ore
+- pixelmon:dawn_stone_ore
+- pixelmon:bauxite_ore
+- pixelmon:silver_ore
+- pixelmon:platinum_ore
+- pixelmon:ruby_ore
+- pixelmon:sapphire_ore
+- pixelmon:amethyst_ore
+- pixelmon:crystal_ore
+- pixelmon:silicon_ore
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- pixelmon:blue_berry_wood_pressure_plate
+- pixelmon:green_berry_wood_pressure_plate
+- pixelmon:pink_berry_wood_pressure_plate
+- pixelmon:purple_berry_wood_pressure_plate
+- pixelmon:red_berry_wood_pressure_plate
+- pixelmon:yellow_berry_wood_pressure_plate
+- pixelmon:ultra_gingko_pressure_plate
+- pixelmon:ultra_elm_pressure_plate
+- pixelmon:ultra_jungle_pressure_plate
+
+#pixelmon:umbrellas
+- pixelmon:white_umbrella
+- pixelmon:orange_umbrella
+- pixelmon:magenta_umbrella
+- pixelmon:light_blue_umbrella
+- pixelmon:yellow_umbrella
+- pixelmon:lime_umbrella
+- pixelmon:pink_umbrella
+- pixelmon:gray_umbrella
+- pixelmon:light_gray_umbrella
+- pixelmon:cyan_umbrella
+- pixelmon:purple_umbrella
+- pixelmon:blue_umbrella
+- pixelmon:brown_umbrella
+- pixelmon:green_umbrella
+- pixelmon:red_umbrella
+- pixelmon:black_umbrella
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#forge:rods/wooden
+- minecraft:stick
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#create:create_ingots
+- create:copper_ingot
+- create:zinc_ingot
+- create:brass_ingot
+
+#forge:ores/bauxite
+- pixelmon:bauxite_ore
+
+#forge:bookshelves
+- minecraft:bookshelf
+
+#pixelmon:berries/natural_gift/grass
+- pixelmon:rawst_berry
+- pixelmon:pinap_berry
+- pixelmon:rindo_berry
+- pixelmon:liechi_berry
+
+#forge:ingots/aluminium
+- pixelmon:aluminium_ingot
+
+#curios:back
+- sophisticatedbackpacks:backpack
+- sophisticatedbackpacks:iron_backpack
+- sophisticatedbackpacks:gold_backpack
+- sophisticatedbackpacks:diamond_backpack
+- sophisticatedbackpacks:netherite_backpack
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#forge:ores/platinum
+- pixelmon:platinum_ore
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#pixelmon:berries/natural_gift/ground
+- pixelmon:persim_berry
+- pixelmon:hondew_berry
+- pixelmon:shuca_berry
+- pixelmon:apicot_berry
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#forge:dusts/obsidian
+- create:powdered_obsidian
+
+#pixelmon:berries/natural_gift/fairy
+- pixelmon:roseli_berry
+- pixelmon:kee_berry
+
+#forge:plates/aluminium
+- pixelmon:aluminium_plate
+
+#forge:plates/copper
+- create:copper_sheet
+
+#forge:netherrack
+- minecraft:netherrack

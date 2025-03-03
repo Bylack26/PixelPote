@@ -1,0 +1,1880 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 26, 2025 8:44:19 AM
+
+#create:non_movable
+- immersiveengineering:connector_lv?
+- immersiveengineering:connector_lv_relay?
+- immersiveengineering:connector_mv?
+- immersiveengineering:connector_mv_relay?
+- immersiveengineering:connector_hv?
+- immersiveengineering:connector_hv_relay?
+- immersiveengineering:connector_bundled?
+- immersiveengineering:connector_structural?
+- immersiveengineering:connector_redstone?
+- immersiveengineering:connector_probe?
+- immersiveengineering:breaker_switch?
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#pixelmon:ultra_jungle_logs
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#toms_storage:remote_activate
+- toms_storage:ts.storage_terminal
+- toms_storage:ts.crafting_terminal
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#minecraft:beehives
+- minecraft:bee_nest
+- minecraft:beehive
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:frosted_ice
+
+#forge:ores/zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#minecraft:dragon_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:end_stone
+- minecraft:iron_bars
+- minecraft:respawn_anchor
+
+#minecraft:crops
+- minecraft:beetroots
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:wheat
+- minecraft:melon_stem
+- minecraft:pumpkin_stem
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#create:wrench_pickup
+- #minecraft:rails
+- #minecraft:buttons
+- #minecraft:pressure_plates
+- minecraft:redstone_wire
+- minecraft:redstone_torch
+- minecraft:repeater
+- minecraft:lever
+- minecraft:comparator
+- minecraft:observer
+- minecraft:redstone_wall_torch
+- minecraft:piston
+- minecraft:sticky_piston
+- minecraft:tripwire
+- minecraft:tripwire_hook
+- minecraft:daylight_detector
+- minecraft:target
+
+#forge:ores/sapphire
+- pixelmon:sapphire_ore
+
+#minecraft:prevent_mob_spawning_inside
+- #minecraft:rails
+
+#minecraft:climbable
+- minecraft:ladder
+- minecraft:vine
+- minecraft:scaffolding
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- pixelmon:ultra_jungle_vine
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+
+#minecraft:coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:storage_blocks/copper
+- create:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#create:safe_nbt
+- create:creative_motor
+- create:creative_fluid_tank
+- create:mechanical_piston
+- create:sticky_mechanical_piston
+- create:windmill_bearing
+- create:mechanical_bearing
+- create:clockwork_bearing
+- create:rope_pulley
+- create:cart_assembler
+- create:linear_chassis
+- create:secondary_linear_chassis
+- create:radial_chassis
+- create:sequenced_gearshift
+- create:rotation_speed_controller
+- create:andesite_funnel
+- create:andesite_belt_funnel
+- create:brass_funnel
+- create:brass_belt_funnel
+- create:creative_crate
+- create:redstone_link
+- create:analog_lever
+- create:adjustable_repeater
+- create:adjustable_pulse_repeater
+- #minecraft:signs
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- pixelmon:blue_berry_wood_fence
+- pixelmon:green_berry_wood_fence
+- pixelmon:pink_berry_wood_fence
+- pixelmon:purple_berry_wood_fence
+- pixelmon:red_berry_wood_fence
+- pixelmon:yellow_berry_wood_fence
+- pixelmon:ultra_jungle_fence
+- pixelmon:ultra_jungle_fence_gate
+- pixelmon:ultra_gingko_fence
+- pixelmon:ultra_gingko_fence_gate
+- pixelmon:ultra_elm_fence
+- pixelmon:ultra_elm_fence_gate
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:ores/copper
+- create:copper_ore
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:mycelium
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+
+#forge:ores/silicon
+- pixelmon:silicon_ore
+
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
+
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- pixelmon:blue_berry_wood_fence
+- pixelmon:green_berry_wood_fence
+- pixelmon:pink_berry_wood_fence
+- pixelmon:purple_berry_wood_fence
+- pixelmon:red_berry_wood_fence
+- pixelmon:yellow_berry_wood_fence
+- pixelmon:ultra_jungle_fence
+- pixelmon:ultra_gingko_fence
+- pixelmon:ultra_elm_fence
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
+
+#toms_storage:trims
+- toms_storage:ts.trim
+- toms_storage:ts.painted_trim
+
+#forge:obsidian
+- minecraft:obsidian
+
+#forge:enderman_place_on_blacklist
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
+
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
+
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+
+#create:fan_transparent
+- create:blaze_burner
+- create:lit_blaze_burner
+- create:sail_frame
+- #minecraft:fences
+- minecraft:iron_bars
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#forge:sand/colorless
+- minecraft:sand
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#pixelmon:ultra_gingko_logs
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+
+#forge:ores/crystal
+- pixelmon:crystal_ore
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- pixelmon:berry_leaves_cheri
+- pixelmon:berry_leaves_chesto
+- pixelmon:berry_leaves_pecha
+- pixelmon:berry_leaves_rawst
+- pixelmon:berry_leaves_aspear
+- pixelmon:berry_leaves_leppa
+- pixelmon:berry_leaves_oran
+- pixelmon:berry_leaves_persim
+- pixelmon:berry_leaves_lum
+- pixelmon:berry_leaves_sitrus
+- pixelmon:berry_leaves_figy
+- pixelmon:berry_leaves_wiki
+- pixelmon:berry_leaves_mago
+- pixelmon:berry_leaves_iapapa
+- pixelmon:berry_leaves_razz
+- pixelmon:berry_leaves_bluk
+- pixelmon:berry_leaves_nanab
+- pixelmon:berry_leaves_wepear
+- pixelmon:berry_leaves_pinap
+- pixelmon:berry_leaves_pomeg
+- pixelmon:berry_leaves_kelpsy
+- pixelmon:berry_leaves_qualot
+- pixelmon:berry_leaves_hondew
+- pixelmon:berry_leaves_grepa
+- pixelmon:berry_leaves_tamato
+- pixelmon:berry_leaves_cornn
+- pixelmon:berry_leaves_magost
+- pixelmon:berry_leaves_rabuta
+- pixelmon:berry_leaves_nomel
+- pixelmon:berry_leaves_spelon
+- pixelmon:berry_leaves_pamtre
+- pixelmon:berry_leaves_watmel
+- pixelmon:berry_leaves_durin
+- pixelmon:berry_leaves_belue
+- pixelmon:berry_leaves_occa
+- pixelmon:berry_leaves_passho
+- pixelmon:berry_leaves_wacan
+- pixelmon:berry_leaves_rindo
+- pixelmon:berry_leaves_yache
+- pixelmon:berry_leaves_chople
+- pixelmon:berry_leaves_kebia
+- pixelmon:berry_leaves_shuca
+- pixelmon:berry_leaves_coba
+- pixelmon:berry_leaves_payapa
+- pixelmon:berry_leaves_tanga
+- pixelmon:berry_leaves_charti
+- pixelmon:berry_leaves_kasib
+- pixelmon:berry_leaves_haban
+- pixelmon:berry_leaves_colbur
+- pixelmon:berry_leaves_babiri
+- pixelmon:berry_leaves_chilan
+- pixelmon:berry_leaves_roseli
+- pixelmon:berry_leaves_liechi
+- pixelmon:berry_leaves_ganlon
+- pixelmon:berry_leaves_salac
+- pixelmon:berry_leaves_petaya
+- pixelmon:berry_leaves_apicot
+- pixelmon:berry_leaves_lansat
+- pixelmon:berry_leaves_starf
+- pixelmon:berry_leaves_pumkin
+- pixelmon:berry_leaves_drash
+- pixelmon:berry_leaves_eggant
+- pixelmon:berry_leaves_strib
+- pixelmon:berry_leaves_nutpea
+- pixelmon:berry_leaves_ginema
+- pixelmon:berry_leaves_kuo
+- pixelmon:berry_leaves_yago
+- pixelmon:berry_leaves_touga
+- pixelmon:berry_leaves_niniku
+- pixelmon:berry_leaves_topo
+- pixelmon:berry_leaves_enigma
+- pixelmon:berry_leaves_micle
+- pixelmon:berry_leaves_jaboca
+- pixelmon:berry_leaves_rowap
+- pixelmon:berry_leaves_kee
+- pixelmon:berry_leaves_maranga
+- pixelmon:berry_leaves_aguav
+- pixelmon:berry_leaves_custap
+- pixelmon:apricorn_leaves_black
+- pixelmon:apricorn_leaves_blue
+- pixelmon:apricorn_leaves_green
+- pixelmon:apricorn_leaves_pink
+- pixelmon:apricorn_leaves_red
+- pixelmon:apricorn_leaves_white
+- pixelmon:apricorn_leaves_yellow
+- pixelmon:ultra_jungle_leaves
+- pixelmon:ultra_gingko_leaves
+- pixelmon:ultra_elm_leaves
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+- pixelmon:ultra_desert_sandstone_wall
+- pixelmon:ultra_space_stone_wall
+- pixelmon:ultra_space_cobblestone_wall
+- pixelmon:polished_ultra_space_stone_wall
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#pixelmon:blue_berry_logs
+- pixelmon:berry_log
+- pixelmon:apricorn_log
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#forge:ores/amethyst
+- pixelmon:amethyst_ore
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#minecraft:wither_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+
+#forge:ores/ruby
+- pixelmon:ruby_ore
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#minecraft:underwater_bonemeals
+- minecraft:seagrass
+- #minecraft:corals
+- #minecraft:wall_corals
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#forge:sand/red
+- minecraft:red_sand
+
+#minecraft:impermeable
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- create:oak_window
+- create:spruce_window
+- create:birch_window
+- create:jungle_window
+- create:acacia_window
+- create:dark_oak_window
+- create:crimson_window
+- create:warped_window
+- create:ornate_iron_window
+- pixelmon:window1
+- pixelmon:window2
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#create:sails
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+
+#forge:wg_stone
+- create:limestone
+- create:weathered_limestone
+- create:dolomite
+- create:gabbro
+- create:natural_scoria
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#forge:storage_blocks
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#minecraft:campfires
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#minecraft:infiniburn_nether
+- #minecraft:infiniburn_overworld
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#pixelmon:firestone_ore_irreplaceable
+- minecraft:end_portal_frame
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#pixelmon:braille_block
+- pixelmon:braille_block_a
+- pixelmon:braille_block_b
+- pixelmon:braille_block_c
+- pixelmon:braille_block_d
+- pixelmon:braille_block_e
+- pixelmon:braille_block_f
+- pixelmon:braille_block_g
+- pixelmon:braille_block_h
+- pixelmon:braille_block_i
+- pixelmon:braille_block_j
+- pixelmon:braille_block_k
+- pixelmon:braille_block_l
+- pixelmon:braille_block_m
+- pixelmon:braille_block_n
+- pixelmon:braille_block_o
+- pixelmon:braille_block_p
+- pixelmon:braille_block_q
+- pixelmon:braille_block_r
+- pixelmon:braille_block_s
+- pixelmon:braille_block_t
+- pixelmon:braille_block_u
+- pixelmon:braille_block_v
+- pixelmon:braille_block_w
+- pixelmon:braille_block_x
+- pixelmon:braille_block_y
+- pixelmon:braille_block_z
+- pixelmon:braille_block_stop
+- pixelmon:braille_block_comma
+- pixelmon:braille_block_underscore
+- pixelmon:braille_block_blank
+
+#jade:pick
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- pixelmon:berry_log
+- pixelmon:apricorn_log
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_elm_log
+
+#pixelmon:poke_sand
+- pixelmon:poke_sand_corner1
+- pixelmon:poke_sand_corner2
+- pixelmon:poke_sand_corner3
+- pixelmon:poke_sand_corner4
+- pixelmon:poke_sand_side1
+- pixelmon:poke_sand_side2
+- pixelmon:poke_sand_side3
+- pixelmon:poke_sand_side4
+- pixelmon:poke_sand
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+
+#minecraft:valid_spawn
+- minecraft:grass_block
+- minecraft:podzol
+
+#minecraft:mushroom_grow_block
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+
+#pixelmon:zygarde_spawnable
+- minecraft:grass_block
+- minecraft:oak_log
+- minecraft:birch_log
+- minecraft:jungle_log
+- minecraft:spruce_log
+- minecraft:dark_oak_log
+- minecraft:acacia_log
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- byg:aspen_leaves?
+- byg:aspen_log?
+- byg:baobab_leaves?
+- byg:baobab_log?
+- byg:cherry_leaves?
+- byg:cherry_log?
+- byg:cika_leaves?
+- byg:cika_log?
+- byg:cypress_leaves?
+- byg:cypress_log?
+- byg:ebony_leaves?
+- byg:ebony_log?
+- byg:fir_leaves?
+- byg:fir_log?
+- byg:holly_leaves?
+- byg:holly_log?
+- byg:jacaranda_leaves?
+- byg:jacaranda_log?
+- byg:mahogany_leaves?
+- byg:mahogany_log?
+- byg:mangrove_leaves?
+- byg:mangrove_log?
+- byg:maple_leaves?
+- byg:maple_log?
+- byg:palo_verde_leaves?
+- byg:palo_verde_log?
+- byg:pine_leaves?
+- byg:pine_log?
+- byg:rainbow_eucalyptus_leaves?
+- byg:rainbow_eucalyptus_log?
+- byg:redwood_leaves?
+- byg:redwood_log?
+- byg:skyris_leaves?
+- byg:skyris_log?
+- byg:willow_leaves?
+- byg:willow_log?
+- byg:witch_hazel_leaves?
+- byg:witch_hazel_log?
+- byg:palm_leaves?
+- byg:palm_log?
+
+#minecraft:standing_signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#minecraft:infiniburn_end
+- #minecraft:infiniburn_overworld
+- minecraft:bedrock
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+
+#minecraft:beacon_base_blocks
+- minecraft:netherite_block
+- minecraft:emerald_block
+- minecraft:diamond_block
+- minecraft:gold_block
+- minecraft:iron_block
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+
+#minecraft:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:ores/silver
+- pixelmon:silver_ore
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+
+#create:fan_heaters
+- create:blaze_burner
+- create:lit_blaze_burner
+- minecraft:magma_block
+- minecraft:campfire
+- minecraft:lava
+- minecraft:fire
+- minecraft:soul_fire
+- minecraft:soul_campfire
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#pixelmon:berry_slabs
+- pixelmon:blue_berry_wood_slab
+- pixelmon:green_berry_wood_slab
+- pixelmon:pink_berry_wood_slab
+- pixelmon:purple_berry_wood_slab
+- pixelmon:red_berry_wood_slab
+- pixelmon:yellow_berry_wood_slab
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#forge:barrels
+- #forge:barrels/wooden
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
+
+#forge:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+- pixelmon:poke_dirt
+- pixelmon:poke_grass
+
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
+
+#create:windowable
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#pixelmon:ultra_elm_logs
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+- create:limestone
+- create:weathered_limestone
+- create:dolomite
+- create:gabbro
+- create:natural_scoria
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#create:windmill_sails
+- create:sail_frame
+- create:white_sail
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+- #minecraft:wool
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- pixelmon:blue_berry_wood_planks
+- pixelmon:green_berry_wood_planks
+- pixelmon:pink_berry_wood_planks
+- pixelmon:purple_berry_wood_planks
+- pixelmon:red_berry_wood_planks
+- pixelmon:yellow_berry_wood_planks
+- pixelmon:ultra_jungle_planks
+- pixelmon:ultra_gingko_planks
+- pixelmon:ultra_elm_planks
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+
+#pixelmon:unown_block
+- pixelmon:unown_block_a
+- pixelmon:unown_block_b
+- pixelmon:unown_block_c
+- pixelmon:unown_block_d
+- pixelmon:unown_block_e
+- pixelmon:unown_block_f
+- pixelmon:unown_block_g
+- pixelmon:unown_block_h
+- pixelmon:unown_block_i
+- pixelmon:unown_block_j
+- pixelmon:unown_block_k
+- pixelmon:unown_block_l
+- pixelmon:unown_block_m
+- pixelmon:unown_block_n
+- pixelmon:unown_block_o
+- pixelmon:unown_block_p
+- pixelmon:unown_block_q
+- pixelmon:unown_block_r
+- pixelmon:unown_block_s
+- pixelmon:unown_block_t
+- pixelmon:unown_block_u
+- pixelmon:unown_block_v
+- pixelmon:unown_block_w
+- pixelmon:unown_block_x
+- pixelmon:unown_block_y
+- pixelmon:unown_block_z
+- pixelmon:unown_block_exclaim
+- pixelmon:unown_block_question
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+- create:cart_assembler
+- create:reinforced_rail
+- create:controller_rail
+
+#forge:barrels/wooden
+- minecraft:barrel
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- create:copper_ore
+- create:zinc_ore
+- pixelmon:moon_stone_ore
+- pixelmon:ice_stone_ore
+- pixelmon:shiny_stone_ore
+- pixelmon:thunder_stone_ore
+- pixelmon:leaf_stone_ore
+- pixelmon:water_stone_ore
+- pixelmon:fire_stone_ore
+- pixelmon:sun_stone_ore
+- pixelmon:dusk_stone_ore
+- pixelmon:dawn_stone_ore
+- pixelmon:bauxite_ore
+- pixelmon:silver_ore
+- pixelmon:platinum_ore
+- pixelmon:ruby_ore
+- pixelmon:sapphire_ore
+- pixelmon:amethyst_ore
+- pixelmon:crystal_ore
+- pixelmon:silicon_ore
+
+#minecraft:bee_growables
+- #minecraft:crops
+- minecraft:sweet_berry_bush
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+
+#create:brittle
+- create:nozzle
+- create:hand_crank
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+- create:rope
+- create:pulley_magnet
+- create:furnace_engine
+- create:redstone_link
+- create:peculiar_bell
+- create:haunted_bell
+- #minecraft:doors
+- #minecraft:beds
+- minecraft:flower_pot
+- minecraft:bell
+- minecraft:cocoa
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:ores/bauxite
+- pixelmon:bauxite_ore
+
+#minecraft:stone_pressure_plates
+- minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#forge:ores/platinum
+- pixelmon:platinum_ore
+
+#minecraft:nylium
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#forge:netherrack
+- minecraft:netherrack
