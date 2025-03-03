@@ -1,0 +1,10 @@
+#Files
+WailaErrorOutput.txt
+**/*.dat
+options.txt
+#Repository
+mods/
+defaultconfigs/
+downloads/
+logs/
+saves/
