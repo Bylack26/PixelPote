@@ -152,6 +152,71 @@ onEvent("recipes", event => {
         }
     })
 
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            " ABA ",
+            "CCDCC",
+            " DED ",
+            "  D  "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:protein"},
+            "B": {"item": "pixelmon:focus_band"},
+            "C": {"item": "minecraft:white_wool"},
+            "D": {"item": "pixelmon:sapphire"},
+            "E": {"item": "pixelmon:ruby"}
+        },
+        "result": {
+            "item": "pixelmon:choice_band",
+        }
+    })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            " ABA ",
+            "CDCDC",
+            " EEE ",
+            "  E  "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:carbos"},
+            "B": {"item": "pixelmon:silk_scarf"},
+            "C": {"item": "minecraft:white_wool"},
+            "D": {"item": "minecraft:cyan_wool"},
+            "E": {"item": "pixelmon:sapphire"},
+        },
+        "result": {
+            "item": "pixelmon:choice_scarf",
+        }
+    })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            " ABA ",
+            "CCCCC",
+            " DCD ",
+            "  C  "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:calcium"},
+            "B": {"item": "pixelmon:black_glasses"},
+            "C": {"item": "minecraft:blaze_rod"},
+            "D": {"item": "pixelmon:ruby"},
+        },
+        "result": {
+            "item": "pixelmon:choice_specs",
+        }
+    })
+
     event.shaped('1x pixelmon:focus_band', [
         '   ',
         'AAA',
@@ -200,6 +265,15 @@ onEvent("recipes", event => {
         C: 'pixelmon:crystal',
         D: 'pixelmon:ruby',
         E: 'pixelmon:sapphire'
+    })
+
+    event.shaped('1x pixelmon:wide_lens', [
+        'AAA',
+        'ABA',
+        'AAA'
+    ], {
+        A: 'minecraft:iron_ingot',
+        B: 'minecraft:glass_pane'
     })
 })
 
