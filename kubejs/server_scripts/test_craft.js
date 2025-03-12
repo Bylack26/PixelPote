@@ -91,6 +91,115 @@ onEvent("recipes", event => {
             "nbt": { PokeBallID: "dusk_ball" } // NBT personnalisé pour la variante 1
         }
     })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:ruby"},
+            "B": {"item": "minecraft:blaze_powder"},
+            "C": {"item": "pixelmon:orb"},
+        },
+        "result": {
+            "item": "pixelmon:flame_orb",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:amethyst"},
+            "B": {"item": "pixelmon:black_sludge"},
+            "C": {"item": "pixelmon:orb"},
+        },
+        "result": {
+            "item": "pixelmon:toxic_orb",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:amethyst"},
+            "B": {"item": "pixelmon:black_sludge"},
+            "C": {"item": "pixelmon:orb"},
+        },
+        "result": {
+            "item": "pixelmon:life_orb",
+        }
+    })
+
+    event.shaped('1x pixelmon:focus_band', [
+        '   ',
+        'AAA',
+        'BBB'
+    ], {
+        A: 'minecraft:red_wool',
+        B: 'minecraft:blaze_powder'
+    })
    
+    event.shaped('1x pixelmon:silk_scarf', [
+        '   ',
+        'AAA',
+        'BBB'
+    ], {
+        A: 'minecraft:white_wool',
+        B: 'pixelmon:crystal'
+    })
+    
+    event.shaped('1x pixelmon:black_glasses', [
+        'AAA',
+        'B B',
+        'CCC'
+    ], {
+        A: 'minecraft:stick',
+        B: 'minecraft:black_stained_glass_pane',
+        C: 'pixelmon:amethyst',
+    })
+    
+    event.shaped('1x pixelmon:black_sludge', [
+        'AAA',
+        'BBB',
+        'CCC'
+    ], {
+        A: 'minecraft:red_mushroom',
+        B: 'minecraft:brown_mushroom',
+        C: 'minecraft:slime_ball'
+    })
+    
+    event.shaped('1x pixelmon:orb', [
+        'AAA',
+        'BBB',
+        'CDE'
+    ], {
+        A: 'minecraft:glass',
+        B: 'minecraft:diamond',
+        C: 'pixelmon:crystal',
+        D: 'pixelmon:ruby',
+        E: 'pixelmon:sapphire'
+    })
 })
 
