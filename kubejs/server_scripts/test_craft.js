@@ -131,26 +131,6 @@ onEvent("recipes", event => {
             "item": "pixelmon:toxic_orb",
         }
     })
-    
-    event.custom({
-        "type": "create:mechanical_crafting",
-        "acceptMirrored": false,
-        "pattern": [
-            " AAA ",
-            "ABBBA",
-            "ABCBA",
-            "ABBBA",
-            " AAA "
-        ],
-        "key": {
-            "A": {"item": "pixelmon:amethyst"},
-            "B": {"item": "pixelmon:black_sludge"},
-            "C": {"item": "pixelmon:orb"},
-        },
-        "result": {
-            "item": "pixelmon:life_orb",
-        }
-    })
 
     event.custom({
         "type": "create:mechanical_crafting",
@@ -217,6 +197,54 @@ onEvent("recipes", event => {
         }
     })
 
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " BDB ",
+            "BAAAB",
+            "CAAAC",
+            "BAAAB",
+            " BDB "
+        ],
+        "key": {
+            "A": {"item": "minecraft:paper"},
+            "B": {"item": "minecraft:ink_sac"},
+            "C": {"item": "pixelmon:protein"},
+            "D": {"item": "pixelmon:calcium"},
+        },
+        "result": {
+            "item": "pixelmon:weakness_policy",
+        }
+    })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABC ",
+            " DEF ",
+            " GHI ",
+            "  J  ",
+            "     "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:cheri_berry"},
+            "B": {"item": "pixelmon:chesto_berry"},
+            "C": {"item": "pixelmon:pecha_berry"},
+            "D": {"item": "pixelmon:rawst_berry"},
+            "E": {"item": "pixelmon:aspear_berry"},
+            "F": {"item": "pixelmon:leppa_berry"},
+            "G": {"item": "pixelmon:oran_berry"},
+            "H": {"item": "pixelmon:persim_berry"},
+            "I": {"item": "pixelmon:lum_berry"},
+            "J": {"item": "pixelmon:sitrus_berry"},
+        },
+        "result": {
+            "item": "pixelmon:leftovers",
+        }
+    })
+
     event.shaped('1x pixelmon:focus_band', [
         '   ',
         'AAA',
@@ -274,6 +302,43 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:iron_ingot',
         B: 'minecraft:glass_pane'
+    })
+
+    event.shaped('1x pixelmon:mystic_water', [
+        'AAA',
+        'AAA',
+        ' B '
+    ], {
+        A: 'minecraft:string',
+        B: 'minecraft:potion'
+    })
+
+    event.shaped('1x pixelmon:expert_belt', [
+        'AAA',
+        'BAB',
+        'AAA'
+    ], {
+        A: 'pixelmon:silk_scarf',
+        B: 'minecraft:black_dye'
+    })
+    
+    event.shaped('1x pixelmon:focus_sash', [
+        'AAA',
+        'ABA',
+        'AAA'
+    ], {
+        A: 'minecraft:blaze_powder',
+        B: 'pixelmon:expert_belt'
+    })
+    
+    event.shaped('1x pixelmon:assault_vest', [
+        'ABA',
+        'BCB',
+        'ABA'
+    ], {
+        A: 'pixelmon:zinc',
+        B: 'minecraft:brick',
+        C: 'minecraft:leather_chestplate'
     })
 })
 
