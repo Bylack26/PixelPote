@@ -510,5 +510,59 @@ onEvent("recipes", event => {
         B: 'minecraft:brick',
         C: 'minecraft:leather_chestplate'
     })
+    
+    event.shaped('1x pixelmon:air_balloon', [
+        'AA ',
+        'AA ',
+        ' BB'
+    ], {
+        A: 'minecraft:leather',
+        B: 'minecraft:string'
+    })
+    
+    event.shaped('1x pixelmon:red_card', [
+        'AB ',
+        'AB ',
+        '   '
+    ], {
+        A: 'minecraft:paper',
+        B: 'minecraft:red_dye'
+    })
+    
+    event.shaped('1x pixelmon:heat_rock', [
+        '  A',
+        'ABA',
+        ' A '
+    ], {
+        A: 'minecraft:blaze_rod',
+        B: 'minecraft:granite'
+    })
+    
+    event.shaped('1x pixelmon:damp_rock', [
+        'AAA',
+        ' B ',
+        '   '
+    ], {
+        A: 'minecraft:water_bucket',
+        B: 'minecraft:granite'
+    })
+    
+    event.shaped('1x pixelmon:icy_rock', [
+        ' A ',
+        ' B ',
+        'A A'
+    ], {
+        A: 'minecraft:ice',
+        B: 'minecraft:granite'
+    })
+
+    event.shaped('1x pixelmon:smooth_rock', [
+        '  A',
+        'ABA',
+        ' A '
+    ], {
+        A: 'minecraft:sand',
+        B: 'minecraft:granite'
+    })
 })
 
