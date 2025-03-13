@@ -245,6 +245,66 @@ onEvent("recipes", event => {
         }
     })
 
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABA ",
+            "AABAA",
+            "ACCCA",
+            "ACCCA",
+            " ACA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:red_dye"},
+            "B": {"item": "minecraft:stick"},
+            "C": {"item": "minecraft:paper"},
+        },
+        "result": {
+            "item": "pixelmon:power_herb",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABA ",
+            "AABAA",
+            "ACCCA",
+            "ACCCA",
+            " ACA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:white_dye"},
+            "B": {"item": "minecraft:stick"},
+            "C": {"item": "minecraft:paper"},
+        },
+        "result": {
+            "item": "pixelmon:white_herb",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABA ",
+            "AABAA",
+            "ACCCA",
+            "ACCCA",
+            " ACA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:light_blue_dye"},
+            "B": {"item": "minecraft:stick"},
+            "C": {"item": "minecraft:paper"},
+        },
+        "result": {
+            "item": "pixelmon:mental_herb",
+        }
+    })
+
     event.shaped('1x pixelmon:focus_band', [
         '   ',
         'AAA',
