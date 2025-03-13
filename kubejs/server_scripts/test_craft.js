@@ -304,6 +304,116 @@ onEvent("recipes", event => {
             "item": "pixelmon:mental_herb",
         }
     })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABA ",
+            "ACDCA",
+            "BDEDB",
+            "ACDCA",
+            " ABA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:silicon"},
+            "B": {"item": "pixelmon:crystal"},
+            "C": {"item": "minecraft:diamond"},
+            "D": {"item": "minecraft:green_dye"},
+            "E": {"item": "minecraft:golden_helmet"},
+        },
+        "result": {
+            "item": "pixelmon:rocky_helmet",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABABA",
+            "BCBCB",
+            "ABDBA",
+            " DDD "
+        ],
+        "key": {
+            "A": {"item": "minecraft:iron_ingot"},
+            "B": {"item": "minecraft:gold_ingot"},
+            "C": {"item": "pixelmon:wide_lens"},
+            "D": {"item": "pixelmon:silicon"},
+        },
+        "result": {
+            "item": "pixelmon:scope_lens",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "BCCCB",
+            "DCECD",
+            "BFFFB",
+            " FFF "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:crystal"},
+            "B": {"item": "minecraft:diamond"},
+            "C": {"item": "minecraft:black_wool"},
+            "D": {"item": "pixelmon:ruby"},
+            "E": {"item": "minecraft:leather_boots"},
+            "F": {"item": "pixelmon:aluminium_plate"},
+        },
+        "result": {
+            "item": "pixelmon:heavy_duty_boots",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABC ",
+            "CDDDA",
+            "BCECB",
+            "ADDDC",
+            " CBA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:iron"},
+            "B": {"item": "pixelmon:silicon"},
+            "C": {"item": "pixelmon:zinc"},
+            "D": {"item": "pixelmon:amethyst"},
+            "E": {"item": "minecraft:diamond"},
+        },
+        "result": {
+            "item": "pixelmon:eviolite",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABCBA",
+            "ADEDA",
+            "ABCBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:silicon"},
+            "B": {"item": "minecraft:slime_ball"},
+            "C": {"item": "pixelmon:iron"},
+            "D": {"item": "pixelmon:zinc"},
+            "E": {"item": "minecraft:clay_ball"},
+        },
+        "result": {
+            "item": "pixelmon:light_clay",
+        }
+    })
 
     event.shaped('1x pixelmon:focus_band', [
         '   ',
