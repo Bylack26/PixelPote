@@ -414,6 +414,69 @@ onEvent("recipes", event => {
             "item": "pixelmon:light_clay",
         }
     })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "BACAB",
+            "BCDCB",
+            "BACAB",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:gold_ingot"},
+            "B": {"item": "pixelmon:aluminium_plate"},
+            "C": {"item": "pixelmon:amethyst"},
+            "D": {"item": "minecraft:diamond"},
+        },
+        "result": {
+            "item": "pixelmon:booster_energy",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:black_dye"},
+            "B": {"item": "minecraft:slime_ball"},
+            "C": {"item": "minecraft:shulker_box"},
+        },
+        "result": {
+            "item": "pixelmon:loaded_dice",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABCBA",
+            "ADEDA",
+            "ACBCA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:amethyst"},
+            "B": {"item": "pixelmon:calcium"},
+            "C": {"item": "pixelmon:protein"},
+            "D": {"item": "minecraft:gold_ingot"},
+            "E": {"item": "pixelmon:orb"},
+        },
+        "result": {
+            "item": "pixelmon:life_orb",
+        }
+    })
 
     event.shaped('1x pixelmon:focus_band', [
         '   ',
