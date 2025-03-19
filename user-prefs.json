@@ -1,0 +1,1902 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": ".git",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\branches",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\applypatch-msg.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\commit-msg.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\fsmonitor-watchman.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\post-update.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\pre-applypatch.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\pre-commit.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\pre-merge-commit.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\pre-push.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\pre-rebase.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\pre-receive.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\prepare-commit-msg.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\push-to-checkout.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\sendemail-validate.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\hooks\\update.sample",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\info",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\info\\exclude",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs\\heads",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs\\heads\\main",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs\\remotes",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs\\remotes\\origin",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs\\remotes\\origin\\HEAD",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\refs\\remotes\\origin\\main",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\logs\\HEAD",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\03",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\03\\480305b966f4eb40d79cf3d66126551d02c9ec",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\0d",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\0d\\d954f2231b1fe1afe2c216697b11f88093ce3e",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\12",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\12\\5de06b5a82299c9d1168f4a15b99ebc9a89d01",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\1c",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\1c\\aa0392dca9436d452432ca7759140d9189a3c3",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\21",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\21\\f03f120983d33bcc8767a428330d43543563af",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\24",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\24\\313cf6ecb9de18f387938d5c84371b2930e0e2",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\24\\60ddad201e6bb2e0112ed2bfb9675ae90ace22",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\2c",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\2c\\04ad82b3962ff71eff7093ec037e2dee2fde6b",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\3e",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\3e\\2168acecd977727aa9e697c77edac99bc7b339",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\4b",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\4b\\79f6ff5ae9363245f1c3693e0874f0d18a10ea",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\4c",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\4c\\96162c9ee95054ea60ac4e3c60a36acc9f2652",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\4c\\f2a2017d445a9b23d806f8b6994aa8a9447721",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\5c",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\5c\\842035ce0d33fd17352f2d2aef61202184e4cf",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\60",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\60\\02e03380363959c1c14cd2472c054c39f9a35e",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\60\\4face9728cca55129ecfa89a1c982c44a7284c",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\67",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\67\\a935aa51d7c8b57e40307514f440d5e3a9cfba",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\7a",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\7a\\5a3df422ef4b3f2762668802b01aa1cd32b5f8",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\83",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\83\\ac2787481872ac8e603e5a7982f3859c41615d",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\85",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\85\\dc8e8887d3bcb44e981238b127b709fdfe57d1",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\8c",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\8c\\1e20f29b63ac7c354cf5454a1847ac4f2b5b61",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\8f",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\8f\\41cd40ff9fb2acfc7fa2737d5ba07c6fed54a2",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\9b",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\9b\\a6e5310e9ed9eb1e0a36c69a56f772fad040e8",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\9d",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\9d\\b765dea9ae7f0f3350f02aa6d459874727d41a",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\9d\\e71330b0e3027073d0562538378ce6ab980a6e",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\a2",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\a2\\9d2f2cd8a101a5ede00997a7485067f173e466",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\a4",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\a4\\f9f5b1a30e49ade586827db737600422ea03e8",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\a6",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\a6\\c138e91964fad814084141062245c56261f8f1",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\aa",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\aa\\445c508191b62090f331d29dbabea62874da74",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b0",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b0\\778f2e159831b04a636b2b5dcd282630a15bec",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b0\\bdd5e0848ba2878ed63ac909173c0901fc6f0b",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b1",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b1\\dc6aec99a2e31c5d12c36281071945a1516b20",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b8",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\b8\\414d31f7a8445978dfb6a1644ffdfd7615b0b5",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\be",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\be\\46bdd0c162f563011d56f357a5bf73b8fadccc",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\c8",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\c8\\20a589b5f02599a84af57b5f929b393a23bd81",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\e5",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\e5\\26853e598366d0f2784bea5b19290788dc1937",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\ef",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\ef\\29993bdc8a559f3f9ac250c27eef3e12437669",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\fa",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\fa\\242ac89612a63e2537fde97b729bbae5639410",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\info",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\pack",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\pack\\pack-a01bb50f3f1e7a5eadd895b656e7442677ba791b.idx",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\pack\\pack-a01bb50f3f1e7a5eadd895b656e7442677ba791b.pack",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\objects\\pack\\pack-a01bb50f3f1e7a5eadd895b656e7442677ba791b.rev",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\heads",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\heads\\main",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\remotes",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\remotes\\origin",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\remotes\\origin\\HEAD",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\remotes\\origin\\main",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\refs\\tags",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\COMMIT_EDITMSG",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\config",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\description",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\HEAD",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\index",
+        "isSelected": false
+      },
+      {
+        "path": ".git\\packed-refs",
+        "isSelected": false
+      },
+      {
+        "path": "config",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jei",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jei\\bookmarks.ini",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jei\\ingredient-list-mod-sort-order.ini",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jei\\ingredient-list-type-sort-order.ini",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jei\\recipe-category-sort-order.ini",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oreexcavation",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oreexcavation\\block_groups.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oreexcavation\\shapes.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oreexcavation\\tool_overrides.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\battle.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\breeding.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\commands.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\config.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\dimensions.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\external_moves.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\graphics.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\quests.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\raids.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\spawning.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\storage.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\structures.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\pixelmon\\tcg.yml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\waila",
+        "isSelected": false
+      },
+      {
+        "path": "config\\waila\\waila.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\waila\\waila_plugins.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\appleskin-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\bettertags-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\create-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\create-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\createaddition-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\dynamic_lights_reforged.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\embeddium-mixins.properties",
+        "isSelected": false
+      },
+      {
+        "path": "config\\embeddium-options.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\flywheel-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\fml.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\forge-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\forge-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\ftbultimine.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "config\\inventoryessentials-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jade-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jei-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jeresources-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\jeresources.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\moreoverlays.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\MouseTweaks.cfg",
+        "isSelected": false
+      },
+      {
+        "path": "config\\naturescompass-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\naturescompass-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oculus.properties",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oreexcavation-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\oreexcavation-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\sidebar_buttons.json",
+        "isSelected": false
+      },
+      {
+        "path": "config\\sophisticatedbackpacks-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\sophisticatedbackpacks-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\toms_storage-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\trashcans-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\waystones-client.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\waystones-common.toml",
+        "isSelected": false
+      },
+      {
+        "path": "config\\waystones-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine-client.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\example_item.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\lemon_pie.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\client_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\client_scripts\\script.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config\\client.properties",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config\\common.properties",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\data",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\blocks.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\enchantments.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\entity_types.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\fluids.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\functions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\items.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\potions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\exported\\tags\\tile_entity_types.txt",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\test_craft.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\startup_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\startup_scripts\\script.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\README.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld\\0EA5C-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld\\0EA5C-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld\\0EA5D-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld\\0EA5D-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\324d7e35-799e-4248-b61b-4d776656d821\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\minecraft_overworld\\0EA61-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\a70753e4-2c10-4d07-8e80-7012ac089b8f\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\client-config.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbultimine-client.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\server.txt",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\startup.txt",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-18-7.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-forge-mc1.16.x-2.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-1.32.68.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterTags-1.16.5-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Controlling-7.0.0.31.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-mc1.16.5_v0.3.2g.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createaddition-1.16.5-20220129a.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\dynamiclightsreforged-mc1.16.5_v1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\embeddium-0.3.18+mc1.16.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\flywheel-1.16-0.2.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-chunks-forge-1605.3.4-build.220.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-library-forge-1605.3.4-build.90.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-quests-forge-1605.3.7-build.165.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-teams-forge-1605.2.3-build.40.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-ultimine-forge-1605.3.1-build.45.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\InventoryEssentials_1.16.5-2.3.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\inventorysorter-1.16.1-18.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\item-filters-forge-1605.2.5-build.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Jade-1.16.4-2.8.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.16.5-7.8.0.1009.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughProfessions-1.16.5-1.2.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughResources-1.16.5-0.12.1.128.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-create-1605.1.4-build.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-forge-1605.3.19-build.299.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-2.14-mc1.16.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NaturesCompass-1.16.5-1.9.1-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\oculus-mc1.16.5-1.4.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OreExcavation-1.8.157.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Pixelmon-1.16.5-9.1.13-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rhino-forge-1605.1.5-build.75.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Searchables-forge-1.16.5-1.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedbackpacks-1.16.5-3.15.20.755.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642configlib-1.1.8-forge-mc1.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642corelib-1.1.18-forge-mc1.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\toms_storage-1.16.5-1.2.24.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\trashcans-1.0.18-forge-mc1.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Waystones_1.16.5-7.6.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\ThePixelmonOST.zip",
+        "isSelected": true
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\advancements\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\pokemon",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\pokemon\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.comp",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\pokemon\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.pk",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\waystones.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\waystones_NameGenerator.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\data\\WorldUUID.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\drowned_world",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\drowned_world\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\drowned_world\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\drowned_world\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\ultra_space",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\ultra_space\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\ultra_space\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\dimensions\\pixelmon\\ultra_space\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbchunks\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbquests\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbteams",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbteams\\party",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbteams\\player",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbteams\\player\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbteams\\server",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\ftbteams\\ftbteams.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\playerdata\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\playerdata\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\poi\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\region\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\create-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\forge-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\ftbchunks.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\inventorysorter-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\jei-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\serverconfig\\journeymap-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\stats\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\kubejs_persistent_data.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Nouveau monde\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\advancements\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\pokemon",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\pokemon\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.comp",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\pokemon\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.pk",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\waystones.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\waystones_NameGenerator.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\data\\WorldUUID.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\drowned_world",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\drowned_world\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\drowned_world\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\drowned_world\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\ultra_space",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\ultra_space\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\ultra_space\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\dimensions\\pixelmon\\ultra_space\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbchunks\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbquests\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbteams",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbteams\\party",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbteams\\player",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbteams\\player\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbteams\\server",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\ftbteams\\ftbteams.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\playerdata\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\playerdata\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-3.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-4.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-4.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-4.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\poi\\r.-4.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-3.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-3.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-4.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-4.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-4.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-4.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-5.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-5.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.-5.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\create-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\forge-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\ftbchunks.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\inventorysorter-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\jei-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\journeymap-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\serverconfig\\mantle-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\stats\\5c7f3816-b6e7-452e-ab66-b3308ca4d547.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\kubejs_persistent_data.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Pixelmon\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "schematics",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
+        "isSelected": true
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": ".gitignore",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "pixel.dat",
+        "isSelected": false
+      },
+      {
+        "path": "pixelc.dat",
+        "isSelected": false
+      },
+      {
+        "path": "servers.dat",
+        "isSelected": false
+      },
+      {
+        "path": "servers.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "usercache.json",
+        "isSelected": false
+      },
+      {
+        "path": "usernamecache.json",
+        "isSelected": false
+      }
+    ]
+  }
+}
