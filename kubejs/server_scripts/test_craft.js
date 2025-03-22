@@ -476,6 +476,191 @@ onEvent("recipes", event => {
         "result": {
             "item": "pixelmon:life_orb",
         }
+    })    
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABCDA",
+            "ACECA",
+            "ADCBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:red_wool"},
+            "B": {"item": "pixelmon:focus_sash"},
+            "C": {"item": "minecraft:diamond"},
+            "D": {"item": "pixelmon:black_belt"},
+            "E": {"item": "pixelmon:expert_belt"},
+        },
+        "result": {
+            "item": "pixelmon:destiny_knot",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:lime_wool"},
+            "B": {"item": "pixelmon:hp_up"},
+            "C": {"item": "pixelmon:focus_band"},
+        },
+        "result": {
+            "item": "pixelmon:power_weight",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:red_wool"},
+            "B": {"item": "pixelmon:protein"},
+            "C": {"item": "pixelmon:focus_band"},
+        },
+        "result": {
+            "item": "pixelmon:power_bracer",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:orange_wool"},
+            "B": {"item": "pixelmon:iron"},
+            "C": {"item": "pixelmon:focus_band"},
+        },
+        "result": {
+            "item": "pixelmon:power_belt",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "DBCBD",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:purple_wool"},
+            "B": {"item": "pixelmon:calcium"},
+            "C": {"item": "pixelmon:focus_band"},
+            "D": {"item": "minecraft:light_blue_wool"},
+        },
+        "result": {
+            "item": "pixelmon:power_lens",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:yellow_wool"},
+            "B": {"item": "pixelmon:zinc"},
+            "C": {"item": "pixelmon:focus_band"},
+        },
+        "result": {
+            "item": "pixelmon:power_band",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " AAA ",
+            "ABBBA",
+            "ABCBA",
+            "ABBBA",
+            " AAA "
+        ],
+        "key": {
+            "A": {"item": "minecraft:light_blue_wool"},
+            "B": {"item": "pixelmon:carbos"},
+            "C": {"item": "pixelmon:focus_band"},
+        },
+        "result": {
+            "item": "pixelmon:power_anklet",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABA ",
+            "ACBCA",
+            "BBDBB",
+            "ACBCA",
+            " ABA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:silicon"},
+            "B": {"item": "minecraft:gold_ingot"},
+            "C": {"item": "minecraft:diamond"},
+            "D": {"item": "minecraft:iron_helmet"},
+        },
+        "result": {
+            "item": "pixelmon:exp_share",
+        }
+    })
+    
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "acceptMirrored": false,
+        "pattern": [
+            " ABA ",
+            "ACBCA",
+            "BBDBB",
+            "ACBCA",
+            " ABA "
+        ],
+        "key": {
+            "A": {"item": "pixelmon:silicon"},
+            "B": {"item": "minecraft:emerald"},
+            "C": {"item": "minecraft:diamond"},
+            "D": {"item": "pixelmon:exp_share"},
+        },
+        "result": {
+            "item": "pixelmon:exp_all",
+        }
     })
 
     event.shaped('1x pixelmon:focus_band', [
