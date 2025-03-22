@@ -3,8 +3,15 @@
 console.info('Hello, World! (You will only see this line once in console, during startup)')
 
 onEvent('item.registry', event => {
-	// Register new items here
-	// event.create('example_item').displayName('Example Item')
+	event.create('lemon_pie')
+		.displayName('Lemon Pie')
+		.food(food => {
+			food.hunger(8)
+			food.saturation(0.4)
+			food.alwaysEdible(false)
+			food.fastToEat(false)
+		})
+		.model('minecraft:item/pumpkin:pie')
 })
 
 onEvent('block.registry', event => {
