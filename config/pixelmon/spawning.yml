@@ -70,10 +70,10 @@ wild-spawning:
     maximum-spawned-flying-pokemon: 500
     maximum-spawned-flying-pokemon-per-player: 45
 boss-spawning:
-    boss-rate: 256.0
+    boss-rate: 150.0
     ultra-space-boss-modifier: 0.5
     bosses-always-mega-if-possible: true
-    boss-spawn-ticks: 10000
+    boss-spawn-ticks: 6000
     boss-spawn-chance: 0.30000001192092896
 poke-loot:
     spawn-normal: true
