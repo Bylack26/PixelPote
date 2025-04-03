@@ -10,7 +10,7 @@ cloning-machine-enabled: true
 lake-trio-max-enchants: 3
 engage-player-by-poke-ball: true
 enable-wild-aggression: true
-shrine-encounter-mode: Once
+shrine-encounter-mode: OncePerDay
 spawners-op-only: true
 npc-editor-op-only: true
 quest-editor-op-only: true

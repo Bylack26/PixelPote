@@ -676,13 +676,22 @@ onEvent("recipes", event => {
         B: 'minecraft:potion'
     })
 
-    event.shaped('1x pixelmon:expert_belt', [
+    event.shaped('1x pixelmon:black_belt', [
         'AAA',
         'BAB',
         'AAA'
     ], {
         A: 'pixelmon:silk_scarf',
         B: 'minecraft:black_dye'
+    })    
+    
+    event.shaped('1x pixelmon:expert_belt', [
+        'A  ',
+        ' B ',
+        '  A'
+    ], {
+        A: 'minecraft:shears',
+        B: 'pixelmon:black_belt'
     })
     
     event.shaped('1x pixelmon:focus_sash', [
@@ -756,6 +765,15 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:sand',
         B: 'minecraft:granite'
+    })
+
+    event.shaped('1x pixelmon:diamond_hourglass', [
+        'AAA',
+        'ABA',
+        'AAA'
+    ], {
+        A: 'minecraft:glass_pane',
+        B: 'minecraft:sand'
     })
 
     event.shapeless('1x kubejs:lemon_pie', ['pamhc2trees:lemonitem', 'minecraft:sugar', 'minecraft:egg'])
