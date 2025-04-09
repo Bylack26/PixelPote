@@ -89,7 +89,7 @@ onEvent("recipes", event => {
         ],
         "key": {
             "A": {"item": "pixelmon:protein"},
-            "B": {"item": "pixelmon:focus_band"},
+            "B": {"item": "pixelmon:muscle_band"},
             "C": {"item": "minecraft:white_wool"},
             "D": {"item": "pixelmon:sapphire"},
             "E": {"item": "pixelmon:ruby"}
@@ -133,7 +133,7 @@ onEvent("recipes", event => {
         ],
         "key": {
             "A": {"item": "pixelmon:calcium"},
-            "B": {"item": "pixelmon:black_glasses"},
+            "B": {"item": "pixelmon:wise_glasses"},
             "C": {"item": "minecraft:blaze_rod"},
             "D": {"item": "pixelmon:ruby"},
         },
@@ -167,11 +167,11 @@ onEvent("recipes", event => {
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
         "pattern": [
-            " ABC ",
-            " DEF ",
-            " GHI ",
-            "  J  ",
-            "     "
+            " KKK ",
+            "KABCK",
+            "KDEFK",
+            "KGHIK",
+            " KJK ",
         ],
         "key": {
             "A": {"item": "pixelmon:cheri_berry"},
@@ -184,6 +184,7 @@ onEvent("recipes", event => {
             "H": {"item": "pixelmon:persim_berry"},
             "I": {"item": "pixelmon:lum_berry"},
             "J": {"item": "pixelmon:sitrus_berry"},
+            "K": {"item": "minecraft:apple"}
         },
         "result": {
             "item": "pixelmon:leftovers",
@@ -616,25 +617,6 @@ onEvent("recipes", event => {
         A: 'minecraft:red_wool',
         B: 'minecraft:blaze_powder'
     })
-   
-    event.shaped('1x pixelmon:silk_scarf', [
-        '   ',
-        'AAA',
-        'BBB'
-    ], {
-        A: 'minecraft:white_wool',
-        B: 'pixelmon:crystal'
-    })
-    
-    event.shaped('1x pixelmon:black_glasses', [
-        'AAA',
-        'B B',
-        'CCC'
-    ], {
-        A: 'minecraft:stick',
-        B: 'minecraft:black_stained_glass_pane',
-        C: 'pixelmon:amethyst',
-    })
     
     event.shaped('1x pixelmon:black_sludge', [
         'AAA',
@@ -665,25 +647,7 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:iron_ingot',
         B: 'minecraft:glass_pane'
-    })
-
-    event.shaped('1x pixelmon:mystic_water', [
-        'AAA',
-        'AAA',
-        ' B '
-    ], {
-        A: 'minecraft:string',
-        B: 'minecraft:potion'
-    })
-
-    event.shaped('1x pixelmon:black_belt', [
-        'AAA',
-        'BAB',
-        'AAA'
-    ], {
-        A: 'pixelmon:silk_scarf',
-        B: 'minecraft:black_dye'
-    })    
+    }) 
     
     event.shaped('1x pixelmon:expert_belt', [
         'A  ',
@@ -767,13 +731,215 @@ onEvent("recipes", event => {
         B: 'minecraft:granite'
     })
 
-    event.shaped('1x pixelmon:diamond_hourglass', [
+    event.shaped('1x pixelmon:gold_hourglass', [
         'AAA',
         'ABA',
         'AAA'
     ], {
         A: 'minecraft:glass_pane',
         B: 'minecraft:sand'
+    })
+
+    event.shaped('1x pixelmon:wise_glasses', [
+        'ABA',
+        'CAC',
+        '   '
+    ], {
+        A: 'pixelmon:aluminium_ingot',
+        B: 'minecraft:book',
+        C: 'minecraft:glass_pane',
+    })
+
+    event.shaped('1x pixelmon:muscle_band', [
+        '  A',
+        'AAA',
+        'B B'
+    ], {
+        A: 'minecraft:yellow_wool',
+        B: 'pixelmon:power_herb',
+    })
+
+    event.shaped('1x pixelmon:magnet', [
+        'AAA',
+        'ABA',
+        'CBD'
+    ], {
+        A: 'minecraft:stone',
+        B: 'minecraft:redstone',
+        C: 'minecraft:red_wool',
+        D: 'minecraft:blue_wool',
+    })    
+
+    event.shaped('1x pixelmon:charcoal', [
+        '   ',
+        'AAA',
+        '   '
+    ], {
+        A: 'minecraft:coal_block',
+    })
+
+    event.shaped('1x pixelmon:dragon_fang', [
+        '  A',
+        ' AA',
+        'AA '
+    ], {
+        A: 'minecraft:diorite',
+    })
+
+    event.shaped('1x pixelmon:twisted_spoon', [
+        '  A',
+        ' AA',
+        'BA '
+    ], {
+        A: 'minecraft:iron_ingot',
+        B: 'minecraft:bowl',
+    })    
+        
+    event.shaped('1x pixelmon:never_melt_ice', [
+        ' A ',
+        'AAA',
+        'AAA'
+    ], {
+        A: 'minecraft:ice',
+    })    
+           
+    event.shaped('1x pixelmon:miracle_seed', [
+        'AAA',
+        'ABA',
+        'AAA'
+    ], {
+        A: 'minecraft:gold_nugget',
+        B: 'minecraft:wheat_seeds',
+    })    
+        
+    event.shaped('1x pixelmon:metal_coat', [
+        '   ',
+        'ABA',
+        'AAA'
+    ], {
+        A: 'minecraft:iron_ingot',
+        B: 'pixelmon:aluminium_plate',
+    })    
+            
+    event.shaped('1x pixelmon:poison_barb', [
+        '  A',
+        ' A ',
+        'B  '
+    ], {
+        A: 'minecraft:stick',
+        B: 'pixelmon:black_sludge',
+    })    
+                
+    event.shaped('1x pixelmon:hard_stone', [
+        ' A ',
+        'AAA',
+        ' A '
+    ], {
+        A: 'minecraft:stone',
+    })   
+                
+    event.shaped('1x pixelmon:silver_powder', [
+        '   ',
+        ' A ',
+        'BBB'
+    ], {
+        A: 'minecraft:sugar',
+        B: 'minecraft:green_carpet',
+    })    
+                    
+    event.shaped('1x pixelmon:soft_sand', [
+        '   ',
+        'BAB',
+        'BBB'
+    ], {
+        A: 'minecraft:sand',
+        B: 'minecraft:purple_carpet',
+    })    
+                        
+    event.shaped('1x pixelmon:spell_tag', [
+        'ABA',
+        'CBC',
+        'CBC'
+    ], {
+        A: 'minecraft:red_dye',
+        B: 'minecraft:paper',
+        C: 'minecraft:black_dye',
+    })    
+                            
+    event.shaped('1x pixelmon:spell_tag', [
+        'ABA',
+        'CBC',
+        'CBC'
+    ], {
+        A: 'minecraft:red_dye',
+        B: 'minecraft:paper',
+        C: 'minecraft:black_dye',
+    })    
+                                
+    event.shaped('1x pixelmon:fairy_wand', [
+        '  A',
+        'BCB',
+        'CB '
+    ], {
+        A: 'minecraft:gold_ingot',
+        B: 'minecraft:pink_dye',
+        C: 'minecraft:stick',
+    })   
+                                
+    event.shaped('1x pixelmon:sharp_beak', [
+        'AAA',
+        'A A',
+        ' AA'
+    ], {
+        A: 'minecraft:gold_ingot',
+    })    
+    
+    event.shaped('1x pixelmon:black_glasses', [
+        'AAA',
+        'B B',
+        'CCC'
+    ], {
+        A: 'minecraft:stick',
+        B: 'minecraft:black_stained_glass_pane',
+        C: 'pixelmon:amethyst',
+    })
+    
+    event.shaped('1x pixelmon:mystic_water', [
+        'AAA',
+        'AAA',
+        ' B '
+    ], {
+        A: 'minecraft:string',
+        B: 'minecraft:potion'
+    })
+
+    event.shaped('1x pixelmon:black_belt', [
+        'AAA',
+        'BAB',
+        'AAA'
+    ], {
+        A: 'pixelmon:silk_scarf',
+        B: 'minecraft:black_dye'
+    })  
+   
+    event.shaped('1x pixelmon:silk_scarf', [
+        '   ',
+        'AAA',
+        'BBB'
+    ], {
+        A: 'minecraft:white_wool',
+        B: 'pixelmon:crystal'
+    }) 
+   
+    event.shaped('1x pixelmon:safety_goggles', [
+        'ABA',
+        'CDC',
+        'AAA'
+    ], {
+        A: 'minecraft:green_dye',
+        B: 'pixelmon:black_belt',
+        C: "pixelmon:ruby",
+        D: "pixelmon:wise_glasses",
     })
 
     event.shapeless('1x kubejs:lemon_pie', ['pamhc2trees:lemonitem', 'minecraft:sugar', 'minecraft:egg'])
