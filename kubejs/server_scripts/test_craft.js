@@ -82,10 +82,10 @@ onEvent("recipes", event => {
         "acceptMirrored": false,
         "pattern": [
             " AAA ",
-            " ABA ",
+            "CABAC",
             "CCDCC",
-            " DED ",
-            "  D  "
+            "CDEDC",
+            " CDC "
         ],
         "key": {
             "A": {"item": "pixelmon:protein"},
@@ -104,10 +104,10 @@ onEvent("recipes", event => {
         "acceptMirrored": false,
         "pattern": [
             " AAA ",
-            " ABA ",
+            "DABAD",
             "CDCDC",
-            " EEE ",
-            "  E  "
+            "DEEED",
+            " CEC "
         ],
         "key": {
             "A": {"item": "pixelmon:carbos"},
@@ -126,10 +126,10 @@ onEvent("recipes", event => {
         "acceptMirrored": false,
         "pattern": [
             " AAA ",
-            " ABA ",
+            "CABAC",
             "CCCCC",
-            " DCD ",
-            "  C  "
+            "CDCDC",
+            " CCC "
         ],
         "key": {
             "A": {"item": "pixelmon:calcium"},
