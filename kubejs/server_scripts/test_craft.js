@@ -942,6 +942,20 @@ onEvent("recipes", event => {
         D: "pixelmon:wise_glasses",
     })
 
+     event.shaped(
+        "create:creative_motor",
+        [
+            "ABA",
+            "B B",
+            "ABA"
+        ],
+        {
+            A:"create:copper_sheet",
+            B:"minecraft:redstone"
+
+        }
+    )
+
     event.shapeless('1x kubejs:lemon_pie', ['pamhc2trees:lemonitem', 'minecraft:sugar', 'minecraft:egg'])
 
     event.remove({output: 'pamhc2foodextended:lemonpieitem'})
