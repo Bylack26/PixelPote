@@ -1,0 +1,133 @@
+{
+	id: "1F4D626BC8391BF4"
+	group: ""
+	order_index: 1
+	filename: "create"
+	title: "Create"
+	icon: "create:cogwheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "La base de la base"
+			x: -3.0d
+			y: -1.5d
+			shape: "gear"
+			description: [
+				"L'andesite alloy est la ressource de base de Create et vous en aurez tout le temps besoin."
+				" "
+				"Vous pourrez automatiser la production plus tard mais pour l'instant fabriquez-en un stack."
+			]
+			dependencies: ["0511DDD49387A1F5"]
+			size: 3.0d
+			id: "2B4ED56F1F46818E"
+			tasks: [{
+				id: "3A9417690AF866B4"
+				type: "item"
+				item: "create:andesite_alloy"
+				count: 64L
+			}]
+		}
+		{
+			x: 7.5d
+			y: -1.5d
+			shape: "gear"
+			description: ["Les \"Water Wheel\" sont la première source de RPM, facilement accessible. Pour les faire fonctionner il suffit de faire couler de l'eau autour de la roue. Faîtes attention au sens des pales de la roue et le sens de l'eau pour une efficacité maximale. Si les 4 cotés de la roue sont en contact avec de l'eau (qui coule dans le bon sens), la génération de RPM est maximale. Pour faire couler l'eau dans le bon sens pour le dernier côtés vous aurez besoin de \"Soul Sand\"."]
+			dependencies: ["633F9F54D4A645C1"]
+			size: 3.0d
+			id: "54A2F05FA959694F"
+			tasks: [{
+				id: "5F4F146118425E47"
+				type: "item"
+				item: "create:water_wheel"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -1.5d
+			description: [
+				"Les machines de Create ont besoin d'energie pour fonctionner. Cette energie, c'est les Rotation Per Minute (RPM)."
+				" "
+				"Vous pouvez appliquer jusqu'à 256 RPM à une machine. Plus vous en appliquer plus la machine fonctionnera vite."
+			]
+			dependencies: ["10B21CC71F5875DB"]
+			id: "633F9F54D4A645C1"
+			tasks: [{
+				id: "2D88037B370711A9"
+				type: "checkmark"
+				title: "Les RPM"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -1.5d
+			subtitle: "La limite"
+			description: ["Les \"Water Wheel\" produisent beaucoup de RPM, mais peu de ce que l'on appel des SU (Stress Unit). Toutes les machines ont besoin de RPM mais génère aussi du Stress. Lorsque les machines génèrent trop de Stress, tout votre système va se bloquer. Pour réduire le Stress, vous pouvez réduire la vitesse des machines ou alors ajouter une source d'énergie avec une plus forte résistance au Stress."]
+			dependencies: ["54A2F05FA959694F"]
+			id: "66E24E9E65502FEF"
+			tasks: [{
+				id: "02E32303FE53F696"
+				type: "checkmark"
+				title: "Stress Unit"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			shape: "gear"
+			description: [""]
+			dependencies: ["2B4ED56F1F46818E"]
+			size: 3.0d
+			id: "10B21CC71F5875DB"
+			tasks: [
+				{
+					id: "7249176760919F2D"
+					type: "item"
+					item: "create:large_cogwheel"
+				}
+				{
+					id: "55EDF4EC244E67CB"
+					type: "item"
+					item: "create:cogwheel"
+				}
+			]
+		}
+		{
+			x: 7.5d
+			y: -5.5d
+			description: [
+				"Les water wheels peuvent être accéler mais reste plutôt lente. Une solution pour augmenter le nombre de RPM est de faire un petit système où une cogwheel est mise en diagonale d'une large cogwheel. La petite roue tournera 4x plus vite."
+				"Vous pouvez enchainé ce principe en mettant une large cogwheel sur l'axe de la petite et répété l'opération jusqu'à avoir la vitesse voulue. Le mieux c'est d'essayer, vous comprendrez."
+				" "
+				"P.S : Il y aura une manière plus simple et compact d'accélerer les machines à une vitesse précise mais un peu plus tard."
+			]
+			dependencies: ["54A2F05FA959694F"]
+			id: "62AB256B51908B8E"
+			tasks: [{
+				id: "2BC45A347FD3BFA0"
+				type: "checkmark"
+				title: "Accélerer la rotation"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -1.5d
+			shape: "gear"
+			description: [
+				"Create n'est pas forcément évident et vous aurez parfois besoin d'exemple d'utilisation de certaines machines."
+				" "
+				"Heureusement vous pouvez utiliser les ponders directement depuis JEI. Il s'agit de petite scène explicative et très bien faîtes pour voir le fonctionnement et les limitations des machines de Create."
+				""
+				"Vous verrez un texte \"Hold [z] to ponder\". Appuyez longtemps puis laissez-vous guider."
+			]
+			dependencies: ["33DFD608D5893B15"]
+			size: 3.0d
+			id: "0511DDD49387A1F5"
+			tasks: [{
+				id: "25D524CFF6E377EA"
+				type: "checkmark"
+				title: "POOOOOOOOONDERS"
+			}]
+		}
+	]
+}

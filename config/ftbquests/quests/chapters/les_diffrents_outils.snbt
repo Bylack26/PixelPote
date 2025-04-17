@@ -1,0 +1,78 @@
+{
+	id: "3E435B467CD97AA4"
+	group: ""
+	order_index: 3
+	filename: "les_diffrents_outils"
+	title: "Les différents outils"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Waystone"
+			x: 0.0d
+			y: 0.0d
+			description: [
+				"Les waystones permettent de se téléporter d'un point à un autre. Faîtes un clic droit sur une waystone pour la découvrir. Vous pouvez alors vous y téléporter depuis n'importe quelle waystone. Vous pouvez ainsi aller d'une base à l'autre en apprenant une fois la position de la waystone puis y revenir à n'importe quel moment."
+				"Vous pouvez soit les fabriquer soit les trouver dans le monde et les villages. Posez la pour lui donner un nom et voilà!!"
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "2B3FAE53CDF292F7"
+			tasks: [{
+				id: "56EDF23346562B80"
+				type: "item"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "waystones:waystone"
+								Count: 1b
+							}
+							{
+								id: "waystones:mossy_waystone"
+								Count: 1b
+							}
+							{
+								id: "waystones:sandy_waystone"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 0.0d
+			description: [
+				"JEI (pour Just Enough Items) est un mod permettant de voir tout les items du jeux (enfin ceux qu'on a pas cacher ;) ). Vous pouvez chercher un item par son nom dans la barre de recherche accessible depuis votre inventaire. En faisant un clic gauche sur l'item, vous verrez les différentes recettes possibles."
+				"Avec un clic droit, vous verrez les recettes dans lesquelles cet item est présent ou encore certaines propriétés comme le nombre d'item qu'il est possible de cuire avec, dans un four."
+				"Enfin vous pouvez chercher un item dans un mod en particulier en tapant: \"@nom_du_mod\" . Seul les items du mod en question s'afficheront."
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "10B3FD88D8E697FF"
+			tasks: [{
+				id: "4F265BBF885C23A2"
+				type: "checkmark"
+				title: "JEI"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			description: [
+				"Pam's harvestcraft est un mod qui ajoute une tonne de plat différents et d'ingrédients."
+				" "
+				"J'aime la bouffe. C'est tout."
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "1386DDF6ACA6DFA0"
+			tasks: [{
+				id: "48F34BFC6DB337CA"
+				type: "item"
+				item: "minecraft:apple"
+			}]
+		}
+	]
+}

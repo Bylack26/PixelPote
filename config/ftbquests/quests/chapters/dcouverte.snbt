@@ -1,0 +1,83 @@
+{
+	id: "2745EE7756B7F7B7"
+	group: ""
+	order_index: 0
+	filename: "dcouverte"
+	title: "Découverte"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -3.5d
+			y: -2.0d
+			shape: "hexagon"
+			subtitle: "Un peu d'aide?"
+			description: [
+				""
+				"Les quêtes que vous trouverez ici sont une introduction aux mods présent dans le pack."
+				"Rien n'est obligatoire mais si vous vous sentez perdu n'hésitez pas à revenir ici"
+			]
+			size: 3.0d
+			id: "6E6EF2B6018D494A"
+			tasks: [{
+				id: "0FA844B53CF826D8"
+				type: "checkmark"
+				title: "Bienvenue"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -4.0d
+			description: ["Vous n'avez pas besoin de garder le livre de quêtes pour accéder à cette page. Je recommande d'aller dans vos raccourcis et d'associer une touche à l'option \"Open Quest Book\""]
+			dependencies: ["6E6EF2B6018D494A"]
+			id: "6BF2EB4C392E3930"
+			tasks: [{
+				id: "78FAFF2E0A02778A"
+				type: "checkmark"
+				title: "Les raccourcis"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -5.5d
+			subtitle: "Des pokémons dans Minecraft"
+			description: ["Validez cette quête pour commencer le chapitre sur \"Pixelmon\""]
+			dependencies: ["6E6EF2B6018D494A"]
+			id: "116820C108B163F1"
+			tasks: [{
+				id: "762407F5DB704E7E"
+				type: "checkmark"
+				title: "Pixelmon"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -4.0d
+			subtitle: "La puissance de la rotation"
+			description: ["Validez cette quête pour commencer le chapitre sur \"Create\""]
+			dependencies: ["6E6EF2B6018D494A"]
+			id: "33DFD608D5893B15"
+			tasks: [{
+				id: "49F8F1C68B8E8041"
+				type: "checkmark"
+				title: "Create"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 1.5d
+			subtitle: "Et d'autres trucs bien pratique"
+			description: [
+				"Validez cette quête pour commencer le chapitre sur \"Les différents outils\""
+				"Regardez notamment le chapitre sur \"JEI\""
+			]
+			dependencies: ["6E6EF2B6018D494A"]
+			id: "314C4B9FF7CC3384"
+			tasks: [{
+				id: "1A2622FABF72BC7E"
+				type: "checkmark"
+				title: "Pour se simplifier la vie"
+			}]
+		}
+	]
+}

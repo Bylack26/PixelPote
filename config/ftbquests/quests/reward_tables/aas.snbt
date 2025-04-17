@@ -1,0 +1,11 @@
+{
+	id: "291072A5D0D4009A"
+	order_index: 0
+	title: "aas"
+	loot_size: 1
+	rewards: [
+		{ item: "waystones:waystone" }
+		{ item: "waystones:mossy_waystone" }
+		{ item: "waystones:sandy_waystone" }
+	]
+}

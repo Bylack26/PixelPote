@@ -1,0 +1,27 @@
+{
+	id: "59EBA791CFE57EDC"
+	group: ""
+	order_index: 2
+	filename: "pixelmon"
+	title: "Pixelmon"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -0.5d
+		y: -1.0d
+		dependencies: ["33DFD608D5893B15"]
+		size: 2.0d
+		id: "1A8A327E0C450631"
+		tasks: [{
+			id: "71F4DB2B91991616"
+			type: "item"
+			item: {
+				id: "pixelmon:poke_ball"
+				Count: 1b
+				tag: {
+					PokeBallID: "poke_ball"
+				}
+			}
+		}]
+	}]
+}
