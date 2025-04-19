@@ -16,7 +16,7 @@
 			description: [
 				"L'andesite alloy est la ressource de base de Create et vous en aurez tout le temps besoin."
 				" "
-				"Vous pourrez automatiser la production plus tard mais pour l'instant fabriquez-en un stack."
+				"Vous pourrez automatiser la production plus tard mais pour l'instant fabriquez-en un petit paquet."
 			]
 			dependencies: ["0511DDD49387A1F5"]
 			size: 3.0d
@@ -25,7 +25,7 @@
 				id: "3A9417690AF866B4"
 				type: "item"
 				item: "create:andesite_alloy"
-				count: 64L
+				count: 32L
 			}]
 		}
 		{
@@ -59,7 +59,7 @@
 			}]
 		}
 		{
-			x: 10.0d
+			x: 10.5d
 			y: -1.5d
 			subtitle: "La limite"
 			description: ["Les \"Water Wheel\" produisent beaucoup de RPM, mais peu de ce que l'on appel des SU (Stress Unit). Toutes les machines ont besoin de RPM mais génère aussi du Stress. Lorsque les machines génèrent trop de Stress, tout votre système va se bloquer. Pour réduire le Stress, vous pouvez réduire la vitesse des machines ou alors ajouter une source d'énergie avec une plus forte résistance au Stress."]
@@ -75,7 +75,10 @@
 			x: 1.5d
 			y: -1.5d
 			shape: "gear"
-			description: [""]
+			description: [
+				""
+				"Les cogwheels vont servir pour transmettre la rotation. Elles fonctionnent comme des engrenages dans la vrai vie. Par exemple deux cogwheels côte à côte s'entrainent et tourneront dans des sens différents."
+			]
 			dependencies: ["2B4ED56F1F46818E"]
 			size: 3.0d
 			id: "10B21CC71F5875DB"
@@ -118,7 +121,7 @@
 				" "
 				"Heureusement vous pouvez utiliser les ponders directement depuis JEI. Il s'agit de petite scène explicative et très bien faîtes pour voir le fonctionnement et les limitations des machines de Create."
 				""
-				"Vous verrez un texte \"Hold [z] to ponder\". Appuyez longtemps puis laissez-vous guider."
+				"Si vous passez votre souris sur un item de Create, vous verrez un texte \"Hold [z] to ponder\" (en anglais). Appuyez longtemps puis laissez-vous guider."
 			]
 			dependencies: ["33DFD608D5893B15"]
 			size: 3.0d
@@ -127,6 +130,348 @@
 				id: "25D524CFF6E377EA"
 				type: "checkmark"
 				title: "POOOOOOOOONDERS"
+			}]
+		}
+		{
+			x: 18.0d
+			y: -1.5d
+			shape: "gear"
+			description: ["Le creative motor offre une quantité infini de Stress Unit et une vitesse de rotation maximale en permanence. Ca facilite la vie, mais ca ne veut pas dire que tout est simple maintenant."]
+			dependencies: ["3036DD0FB1129B0A"]
+			size: 3.0d
+			id: "0213DCCD91900438"
+			tasks: [{
+				id: "26BA3CC914092D8A"
+				type: "item"
+				item: "create:creative_motor"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -1.5d
+			shape: "gear"
+			description: [
+				"La mechanical press est une des première machine que vous pouvez faire avec create. Elle fabrique des plaques de plusieurs métaux, permet de compresser les items comme les lingots de fer en bloc, et plein d'autres choses."
+				""
+				"Vous aurez besoin d'en faire une pour fabriquer les moteurs creatif"
+			]
+			dependencies: ["66E24E9E65502FEF"]
+			size: 3.0d
+			id: "3036DD0FB1129B0A"
+			tasks: [{
+				id: "0A71D3D2045DD1E4"
+				type: "item"
+				item: "create:mechanical_press"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 1.5d
+			description: [
+				"Les ventilateurs soufflent ou aspirent l'air selon leur sens de rotation (c.f les cogwheels). Vous pouvez placer sur le souffle de l'eau, de la lave ou du feu (feu/feu de camp). Cela permet d'accéder à différent crafts possibles, comme le lavage, la cuisson des métaux ou de la nourriture."
+				""
+				"Il suffit de mettre un item dans le souffle du vent avec le bon modifieur, pour les transformer. Plus le ventilateur souffle fort, plus l'opération est rapide."
+			]
+			dependencies: ["3036DD0FB1129B0A"]
+			id: "3423B622240E3F38"
+			tasks: [{
+				id: "2AD2A8ED6B82CB7C"
+				type: "item"
+				item: "create:encased_fan"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 1.5d
+			description: ["Le mechanical mixer permet de réaliser plusieurs crafts, notamment le brass. C'est une machine indispensable dans Create. Il permet aussi de réaliser les crafts qui n'ont pas de forme précise (par exemple, les teintures sont un craft ou les items peuvent être mis dans n'importe quelle case d'une table de craft)."]
+			dependencies: ["3036DD0FB1129B0A"]
+			id: "6FDBAE340529AA2E"
+			tasks: [{
+				id: "4AF30EF380C4CF2C"
+				type: "item"
+				item: "create:mechanical_mixer"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 1.5d
+			description: [
+				""
+				"Pour obtenir un blaze burner fonctionnel, vous aurez besoin de fabriquer un empty blaze burner, puis de faire un clic droit sur un blaze pour l'attraper. Malheureusement les blazes n'apparaissent pas dans ce monde. Par contre les spawners à blaze sont toujours présents dans le nether. Vous pouvez faire un clic droit avec le blaze burner sur le spawner pour en attraper un."
+				""
+				"Enfin vous pourrez poser ce blaze burner sous un bassin pour débloquer certains crafts. A noter que vous aurez besoin de lui donner un combustible (les mêmes que pour un four)."
+			]
+			dependencies: ["3036DD0FB1129B0A"]
+			id: "214B6DEC764EF527"
+			tasks: [
+				{
+					id: "68650C562EEECDB1"
+					type: "item"
+					item: "create:blaze_burner"
+				}
+				{
+					id: "671E33F0E547F5EB"
+					type: "item"
+					item: "create:empty_blaze_burner"
+				}
+			]
+		}
+		{
+			x: 22.5d
+			y: -1.5d
+			shape: "gear"
+			description: ["Il est maintenant temps de passer au niveau supérieur avec le Brass."]
+			dependencies: ["0213DCCD91900438"]
+			size: 3.0d
+			id: "23ED4819A1095606"
+			tasks: [{
+				id: "3AB324FA0C4ABECA"
+				type: "item"
+				item: "create:brass_ingot"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 4.0d
+			description: ["Le depot est un bloc très pratique qui vous permet de poser vos items et les empèchent de disparaître pendant que les machines de Create vont travailler dessus. "]
+			dependencies: [
+				"3423B622240E3F38"
+				"6FDBAE340529AA2E"
+				"214B6DEC764EF527"
+			]
+			dependency_requirement: "one_completed"
+			id: "229C450514745D6D"
+			tasks: [{
+				id: "26C68408C8711564"
+				type: "item"
+				item: "create:depot"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -5.5d
+			description: [
+				"Dans Create les machines ne sont pas des blocs avec une interface qui vont exécuter une opération. Elles intéragissent avec les items droppés devant et en dessous d'elles."
+				""
+				"Certaines auront besoin d'un récipient mais retenez que pour la plupart, il suffira qu'un item passe en dessous pour s'activer."
+			]
+			dependencies: ["3036DD0FB1129B0A"]
+			id: "79ED71F6F343F47A"
+			tasks: [{
+				id: "57B9AD7A0B7D202E"
+				type: "checkmark"
+				title: "Machine et Items"
+			}]
+		}
+		{
+			x: 27.5d
+			y: -1.5d
+			shape: "gear"
+			description: [
+				"Les Mechanical Crafters doivent être assemblés en un multi-block. La forme de ce multiblock dépend du craft que vous voulez réaliser. Dans tout les cas, vous aller devoir alimenter le multiblock avec une source de rotation."
+				""
+				"Ensuite vous allez devoir orienter la flèche de chaque crafters du multi-block pour qu'ils soient tous connectés, de manière à ce qu'un chemin puisse être tracé de chaque bloc vers le bloc de sortie."
+				""
+				"Ainsi un seul bloc devra n'être connecté à rien. C'est là que l'item à crafter sera droppé. Vous pouvez aussi connecté un barril à ce bloc pour que l'objet fabriqué y soit rangé."
+			]
+			dependencies: ["23ED4819A1095606"]
+			size: 3.0d
+			id: "31DA4AEA698AB56E"
+			tasks: [{
+				id: "4FA5617AD01A5B40"
+				type: "item"
+				item: "create:mechanical_crafter"
+			}]
+		}
+		{
+			title: "Et ensuite?"
+			x: 32.0d
+			y: -1.5d
+			shape: "hexagon"
+			description: ["Maintenant, vous avez la base de la base de Create. A vous d'essayer de manipuler les machines et les contraptions comme vous le souhaitez et n'hésitez pas à demander de l'aide ;)"]
+			dependencies: ["31DA4AEA698AB56E"]
+			size: 3.0d
+			id: "722CB69458BEF12D"
+			tasks: [{
+				id: "477319A94B76BF3A"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Les Contraptions"
+			x: 18.0d
+			y: -5.5d
+			description: [
+				"Maintenant que nous avons une source de rotation il est temps de faire tourner des trucs."
+				""
+				"Grâce à create, il est possible de créer des structures mouvantes et celles-ci sont appelés contraptions."
+				""
+				"Par exemple, vous pouvez construire une maison, la poser sur un minecart et la faire se déplacer dans le monde. Pour cela il vous faudra suivre quelques étapes."
+			]
+			dependencies: ["0213DCCD91900438"]
+			id: "36D1015E42C35570"
+			tasks: [{
+				id: "0AB1E760B23988CE"
+				type: "checkmark"
+			}]
+		}
+		{
+			x: 18.0d
+			y: -10.0d
+			shape: "hexagon"
+			description: [
+				"La super glue permet de poser de la colle sur une face d'un bloc. Vous pouvez ensuite poser un autre bloc sur la glue."
+				""
+				"Vous pouvez aussi coller un bloc directement en tenant le tube de colle dans votre seconde main, quand vous posez votre bloc (la colle sera posée sur le bloc que vous visez)."
+				""
+				"Tout les blocs collés de cette manière formeront une contraption une fois en mouvement. Attention vous ne pouvez plus intéragir avec ces blocs une fois en mouvement. Il faudra stopper la contraption."
+			]
+			dependencies: ["36D1015E42C35570"]
+			size: 2.0d
+			id: "1BA73EC3415E3BB8"
+			tasks: [{
+				id: "603677DC871913E4"
+				type: "item"
+				item: {
+					id: "create:super_glue"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 15.0d
+			y: -8.5d
+			description: ["Ce bloc permet de faire tourner la contraption collée sur la face avec de la colle."]
+			dependencies: ["1BA73EC3415E3BB8"]
+			id: "6253B8A92C5725A8"
+			tasks: [{
+				id: "3A0DFCD7DAF805F8"
+				type: "item"
+				item: "create:mechanical_bearing"
+			}]
+		}
+		{
+			title: "Machine interactives"
+			x: 15.0d
+			y: -12.0d
+			description: [
+				"Vous ne pouvez peut-être pas intéragir avec les blocs d'une contraption, mais ces blocs, eux, peuvent intéragir avec le monde. Pour certains c'est même la seule façon de fonctionner."
+				""
+				"Ajoutez ces blocs sur vos contraptions pour leur permettre de couper du bois, casser des blocs, en poser et plus encore."
+				""
+				"Et le plus cool c'est qu'ils n'ont pas besoin d'être alimenté en rotation quand ils sont sur une contraption en mouvement."
+			]
+			dependencies: ["1BA73EC3415E3BB8"]
+			id: "2821A04EB7E6CD9D"
+			tasks: [
+				{
+					id: "5A5555FC38693056"
+					type: "item"
+					item: "create:mechanical_saw"
+				}
+				{
+					id: "71B8A084C91B75B5"
+					type: "item"
+					item: "create:mechanical_drill"
+				}
+				{
+					id: "20B7D0C4E1C60E0A"
+					type: "item"
+					item: "create:deployer"
+				}
+				{
+					id: "446820BD5ADFEA55"
+					type: "item"
+					item: "create:mechanical_plough"
+				}
+				{
+					id: "3E0994AD57F3EE7F"
+					type: "item"
+					item: "create:mechanical_harvester"
+				}
+			]
+		}
+		{
+			x: 21.0d
+			y: -12.0d
+			description: [
+				"Ce bloc vous permet de coller une contraption sur un minecart."
+				""
+				"Vous pouvez récupérer en tant qu'item dans votre inventaire les contraptions de ce genre. Il suffit de faire un clic droit dessus avec une Wrench."
+			]
+			dependencies: ["1BA73EC3415E3BB8"]
+			id: "4AD76473FB8C6706"
+			tasks: [{
+				id: "39F62114A91603B1"
+				type: "item"
+				item: "create:cart_assembler"
+			}]
+		}
+		{
+			x: 21.0d
+			y: -8.5d
+			description: ["Si vous connectez un inventaire à une contraption celle-ci stockera les blocs et items que les machines auront cassés, pendant que la contraption est en mouvement."]
+			dependencies: ["1BA73EC3415E3BB8"]
+			id: "11831C3DF2292030"
+			tasks: [
+				{
+					id: "6821EF2D33AE0729"
+					type: "item"
+					item: "minecraft:chest"
+				}
+				{
+					id: "7E2AB861D5A3ED7B"
+					type: "item"
+					item: "minecraft:barrel"
+				}
+			]
+		}
+		{
+			title: "Déplacements linéaires"
+			x: 18.0d
+			y: -13.5d
+			description: ["Ces items vous permettront de faire se déplacer une contraption de manière linéaire. En particulier la Rope Pulley est très pratique pour construire des ascenseurs."]
+			dependencies: ["1BA73EC3415E3BB8"]
+			id: "1B3A199CE4E2FDAD"
+			tasks: [
+				{
+					id: "63B9318F368C97A4"
+					type: "item"
+					item: "create:sticky_mechanical_piston"
+				}
+				{
+					id: "50EDF53322978AAC"
+					type: "item"
+					item: "create:gantry_carriage"
+				}
+				{
+					id: "68E8DBF065B239EE"
+					type: "item"
+					item: "create:rope_pulley"
+				}
+			]
+		}
+		{
+			title: "Les possiblités sont énormes."
+			x: 18.0d
+			y: -18.0d
+			description: [
+				"Les contraptions offrent beaucoup de fléxibilité et je ne pourrais pas tout vous apprendre, et pas seulement parce que je ne maîtrise pas toutes les connaissances de ce mod."
+				""
+				"Vous pouvez mettre des contraptions partout, pas que dans vos fermes. Construisez des élévateurs, des escaliers escamotables, des trains grandeur nature..."
+				""
+				"N'hésitez pas non plus à améliorer les énigmes dans vos arènes. Faîtes vous plaisir."
+			]
+			dependencies: ["1BA73EC3415E3BB8"]
+			size: 2.0d
+			id: "083FA7A71B5D9BD5"
+			tasks: [{
+				id: "72A10F32D1A3E8BE"
+				type: "checkmark"
+				title: "Avec les contraptions, vous êtes libres de créer les machines, les mécanismes que vous souhaitez. La limite est votre imagination."
 			}]
 		}
 	]

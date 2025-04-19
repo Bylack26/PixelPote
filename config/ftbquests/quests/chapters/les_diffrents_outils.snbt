@@ -74,5 +74,140 @@
 				item: "minecraft:apple"
 			}]
 		}
+		{
+			x: 0.0d
+			y: 2.0d
+			description: ["Certains pokémons ne spawn que dans certains biome (notamment les légendaires). Le nature compass permet de chercher un biome particulier."]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "4EE262B8361D6DEE"
+			tasks: [{
+				id: "5608C7356AF34B9B"
+				type: "item"
+				item: {
+					id: "naturescompass:naturescompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Chipped"
+			x: -2.0d
+			y: 2.0d
+			description: ["Chipped est un mod permettant d'avoir de multiples variantes de blocs. Ce n'est que décoratif, mais cela offre de nombreuses possibilités."]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "1F5EF82409F270D6"
+			tasks: [{
+				id: "1019A4808692B978"
+				type: "item"
+				item: "chipped:mason_table"
+			}]
+		}
+		{
+			title: "Macaw's mods"
+			x: 2.0d
+			y: 2.0d
+			description: ["Vous trouverez une suite de mods appelés \"Macaw's XXXX\" qui ajoutent des ponts, des fenêtres des lumières, etc... , pour décorer vos constructions."]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "724A0006A2E2A966"
+			tasks: [{
+				id: "132A38C37160CADD"
+				type: "item"
+				item: "mcwbridges:iron_bridge"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			description: [
+				"Les framed blocks sont des blocs pouvant prendre plein de formes différentes. Il suffit ensuite de cliquer avec un bloc pour en appliquer la texture."
+				""
+				"Attention, le bloc est consommé (mais il sera rendu quand vous casserez le framed bloc)."
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "6CAA9CF871C38E88"
+			tasks: [{
+				id: "64A378C5254355F3"
+				type: "item"
+				item: "framedblocks:framed_cube"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 4.0d
+			description: [
+				"En ouvrant votre inventaire vous verrez en haut à gauche une icone de team. Il s'agit du mod FTB Teams qui vous permet de créer une équipe."
+				""
+				"Vous verrez aussi une icône de carte. Elle vous permettra de \"Claim\" des chunks pour votre équipe. Vous pouvez ensuite gérer les droits sur ce chunk, comme par exemple qui peut casser les blocs ou en poser."
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "64FD58AA01E4F99A"
+			tasks: [{
+				id: "11241682D96297F9"
+				type: "checkmark"
+				title: "FTB Chunks"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 4.0d
+			description: ["Ore Excavation vous permet de miner plusieurs blocs à la fois. Allez assigner une touche pour l'activé dans vos paramètres en tapant \"Ore Excavation\" et en cochant la case Category"]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "46B3768B37C6B5B4"
+			tasks: [{
+				id: "2411FE4409888CBB"
+				type: "checkmark"
+				title: "Ore Excavation"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 6.0d
+			description: [
+				"Les Drawers sont des blocs capables de stocker des stacks et des stacks d'objet. Ils existent en plusieurs variantes et sont très utiles pour centraliser les grosses resources."
+				""
+				"Le drawer controller permet d'accéder à tout les items des drawers adjacents formant ainsi un multiblock. Les clès permettent de limiter les objets pouvant être stocké dans un drawer et les améliorations permettent de stocker plus de stack, d'émettre de la redstone ou de supprimer les items en trop pour éviter d'engorger une usine."
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "4C4698C61DF4D7A4"
+			tasks: [
+				{
+					id: "0D679CC07D7A821C"
+					type: "item"
+					item: "storagedrawers:drawer_key"
+				}
+				{
+					id: "48CE0664727A0CAA"
+					type: "item"
+					item: "storagedrawers:controller"
+				}
+				{
+					id: "3649440D917E6CF5"
+					type: "item"
+					item: "storagedrawers:oak_full_drawers_1"
+				}
+				{
+					id: "054216EDA274D2FA"
+					type: "item"
+					item: "storagedrawers:void_upgrade"
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: 6.0d
+			description: [
+				"Les sacs à dos de Sophisticated Backpack, peuvent fournir beaucoup d'espace d'inventaire supplémentaire (compte tenu du nombre d'objets que l'on peut récuperer ou avoir besoin sur soit)."
+				""
+				"Les sacs peuvent être améliorer pour offrir plus de fonctionnalités (e.g: stockage des liquides, plus de stacks par slot d'inventaire, table de craft ou four portatif, etc...)"
+			]
+			dependencies: ["314C4B9FF7CC3384"]
+			id: "4774B62F63395EFF"
+			tasks: [{
+				id: "2F60F3EC15BD3E20"
+				type: "item"
+				item: "sophisticatedbackpacks:backpack"
+			}]
+		}
 	]
 }
