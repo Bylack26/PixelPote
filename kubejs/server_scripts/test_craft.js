@@ -967,5 +967,37 @@ onEvent("recipes", event => {
         'minecraft:diamond_hoe',
         'minecraft:diamond_sword'
     ])
+
+    event.custom({
+        "type": "create:crushing",
+        "ingredients": [
+            {
+                "tag": "forge:cobblestone"
+            }
+        ],
+        "results": [
+            {
+                "item": "minecraft:iron_ingot",
+                "count": 3,
+                "chance": 0.2
+            },
+            {
+                "item": "pixelmon:aluminium_ingot",
+                "count": 3,
+                "chance": 0.2
+            },
+            {
+                "item": "minecraft:silver_ingot",
+                "count": 3,
+                "chance": 0.2
+            },
+            {
+                "item": "pixelmon:platinum_ingot",
+                "count": 3,
+                "chance": 0.2
+            }
+        ],
+        "processingTime": 300
+    })
 })
 
