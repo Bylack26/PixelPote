@@ -1,36 +1,36 @@
 const ballTypes = [
-	"wing",
-	"friend",
-	"level",
-	"feather",
-	"safari",
-	"net",
-	"lure",
-	"poke",
-	"luxury",
-	"ancient",
-	"great",
-	"jet",
-	"heal",
-	"premier",
-	"park",
-	"ancient_poke",
-	"sport",
-	"dive",
-	"repeat",
-	"heavy",
-	"ancient_ultra",
-	"ancient_heavy",
-	"fast",
-	"quick",
-	"ultra",
-	"love",
-	"leaden",
-	"gigaton",
-	"nest",
-	"timer",
-	"dusk",
-	"moon",
+    "wing",
+    "friend",
+    "level",
+    "feather",
+    "safari",
+    "net",
+    "lure",
+    "poke",
+    "luxury",
+    "ancient",
+    "great",
+    "jet",
+    "heal",
+    "premier",
+    "park",
+    "ancient_poke",
+    "sport",
+    "dive",
+    "repeat",
+    "heavy",
+    "ancient_ultra",
+    "ancient_heavy",
+    "fast",
+    "quick",
+    "ultra",
+    "love",
+    "leaden",
+    "gigaton",
+    "nest",
+    "timer",
+    "dusk",
+    "moon",
     "ancient_great",
     "master"
 ]
@@ -48,15 +48,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "pixelmon:ruby"},
-            "B": {"item": "minecraft:blaze_powder"},
-            "C": {"item": "pixelmon:orb"},
+            "A": { "item": "pixelmon:ruby" },
+            "B": { "item": "minecraft:blaze_powder" },
+            "C": { "item": "pixelmon:orb" },
         },
         "result": {
             "item": "pixelmon:flame_orb",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -68,9 +68,9 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "pixelmon:amethyst"},
-            "B": {"item": "pixelmon:black_sludge"},
-            "C": {"item": "pixelmon:orb"},
+            "A": { "item": "pixelmon:amethyst" },
+            "B": { "item": "pixelmon:black_sludge" },
+            "C": { "item": "pixelmon:orb" },
         },
         "result": {
             "item": "pixelmon:toxic_orb",
@@ -88,11 +88,11 @@ onEvent("recipes", event => {
             " CDC "
         ],
         "key": {
-            "A": {"item": "pixelmon:protein"},
-            "B": {"item": "pixelmon:muscle_band"},
-            "C": {"item": "minecraft:white_wool"},
-            "D": {"item": "pixelmon:sapphire"},
-            "E": {"item": "pixelmon:ruby"}
+            "A": { "item": "pixelmon:protein" },
+            "B": { "item": "pixelmon:muscle_band" },
+            "C": { "item": "minecraft:white_wool" },
+            "D": { "item": "pixelmon:sapphire" },
+            "E": { "item": "pixelmon:ruby" }
         },
         "result": {
             "item": "pixelmon:choice_band",
@@ -110,11 +110,11 @@ onEvent("recipes", event => {
             " CEC "
         ],
         "key": {
-            "A": {"item": "pixelmon:carbos"},
-            "B": {"item": "pixelmon:silk_scarf"},
-            "C": {"item": "minecraft:white_wool"},
-            "D": {"item": "minecraft:cyan_wool"},
-            "E": {"item": "pixelmon:sapphire"},
+            "A": { "item": "pixelmon:carbos" },
+            "B": { "item": "pixelmon:silk_scarf" },
+            "C": { "item": "minecraft:white_wool" },
+            "D": { "item": "minecraft:cyan_wool" },
+            "E": { "item": "pixelmon:sapphire" },
         },
         "result": {
             "item": "pixelmon:choice_scarf",
@@ -132,10 +132,10 @@ onEvent("recipes", event => {
             " CCC "
         ],
         "key": {
-            "A": {"item": "pixelmon:calcium"},
-            "B": {"item": "pixelmon:wise_glasses"},
-            "C": {"item": "minecraft:blaze_rod"},
-            "D": {"item": "pixelmon:ruby"},
+            "A": { "item": "pixelmon:calcium" },
+            "B": { "item": "pixelmon:wise_glasses" },
+            "C": { "item": "minecraft:blaze_rod" },
+            "D": { "item": "pixelmon:ruby" },
         },
         "result": {
             "item": "pixelmon:choice_specs",
@@ -153,10 +153,10 @@ onEvent("recipes", event => {
             " BDB "
         ],
         "key": {
-            "A": {"item": "minecraft:paper"},
-            "B": {"item": "minecraft:ink_sac"},
-            "C": {"item": "pixelmon:protein"},
-            "D": {"item": "pixelmon:calcium"},
+            "A": { "item": "minecraft:paper" },
+            "B": { "item": "minecraft:ink_sac" },
+            "C": { "item": "pixelmon:protein" },
+            "D": { "item": "pixelmon:calcium" },
         },
         "result": {
             "item": "pixelmon:weakness_policy",
@@ -174,17 +174,17 @@ onEvent("recipes", event => {
             " KJK ",
         ],
         "key": {
-            "A": {"item": "pixelmon:cheri_berry"},
-            "B": {"item": "pixelmon:chesto_berry"},
-            "C": {"item": "pixelmon:pecha_berry"},
-            "D": {"item": "pixelmon:rawst_berry"},
-            "E": {"item": "pixelmon:aspear_berry"},
-            "F": {"item": "pixelmon:leppa_berry"},
-            "G": {"item": "pixelmon:oran_berry"},
-            "H": {"item": "pixelmon:persim_berry"},
-            "I": {"item": "pixelmon:lum_berry"},
-            "J": {"item": "pixelmon:sitrus_berry"},
-            "K": {"item": "minecraft:apple"}
+            "A": { "item": "pixelmon:cheri_berry" },
+            "B": { "item": "pixelmon:chesto_berry" },
+            "C": { "item": "pixelmon:pecha_berry" },
+            "D": { "item": "pixelmon:rawst_berry" },
+            "E": { "item": "pixelmon:aspear_berry" },
+            "F": { "item": "pixelmon:leppa_berry" },
+            "G": { "item": "pixelmon:oran_berry" },
+            "H": { "item": "pixelmon:persim_berry" },
+            "I": { "item": "pixelmon:lum_berry" },
+            "J": { "item": "pixelmon:sitrus_berry" },
+            "K": { "item": "minecraft:apple" }
         },
         "result": {
             "item": "pixelmon:leftovers",
@@ -202,15 +202,15 @@ onEvent("recipes", event => {
             " ACA "
         ],
         "key": {
-            "A": {"item": "minecraft:red_dye"},
-            "B": {"item": "minecraft:stick"},
-            "C": {"item": "minecraft:paper"},
+            "A": { "item": "minecraft:red_dye" },
+            "B": { "item": "minecraft:stick" },
+            "C": { "item": "minecraft:paper" },
         },
         "result": {
             "item": "pixelmon:power_herb",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -222,15 +222,15 @@ onEvent("recipes", event => {
             " ACA "
         ],
         "key": {
-            "A": {"item": "minecraft:white_dye"},
-            "B": {"item": "minecraft:stick"},
-            "C": {"item": "minecraft:paper"},
+            "A": { "item": "minecraft:white_dye" },
+            "B": { "item": "minecraft:stick" },
+            "C": { "item": "minecraft:paper" },
         },
         "result": {
             "item": "pixelmon:white_herb",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -242,15 +242,15 @@ onEvent("recipes", event => {
             " ACA "
         ],
         "key": {
-            "A": {"item": "minecraft:light_blue_dye"},
-            "B": {"item": "minecraft:stick"},
-            "C": {"item": "minecraft:paper"},
+            "A": { "item": "minecraft:light_blue_dye" },
+            "B": { "item": "minecraft:stick" },
+            "C": { "item": "minecraft:paper" },
         },
         "result": {
             "item": "pixelmon:mental_herb",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -262,17 +262,17 @@ onEvent("recipes", event => {
             " ABA "
         ],
         "key": {
-            "A": {"item": "pixelmon:silicon"},
-            "B": {"item": "pixelmon:crystal"},
-            "C": {"item": "minecraft:diamond"},
-            "D": {"item": "minecraft:green_dye"},
-            "E": {"item": "minecraft:golden_helmet"},
+            "A": { "item": "pixelmon:silicon" },
+            "B": { "item": "pixelmon:crystal" },
+            "C": { "item": "minecraft:diamond" },
+            "D": { "item": "minecraft:green_dye" },
+            "E": { "item": "minecraft:golden_helmet" },
         },
         "result": {
             "item": "pixelmon:rocky_helmet",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -284,16 +284,16 @@ onEvent("recipes", event => {
             " DDD "
         ],
         "key": {
-            "A": {"item": "minecraft:iron_ingot"},
-            "B": {"item": "minecraft:gold_ingot"},
-            "C": {"item": "pixelmon:wide_lens"},
-            "D": {"item": "pixelmon:silicon"},
+            "A": { "item": "minecraft:iron_ingot" },
+            "B": { "item": "minecraft:gold_ingot" },
+            "C": { "item": "pixelmon:wide_lens" },
+            "D": { "item": "pixelmon:silicon" },
         },
         "result": {
             "item": "pixelmon:scope_lens",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -305,18 +305,18 @@ onEvent("recipes", event => {
             " FFF "
         ],
         "key": {
-            "A": {"item": "pixelmon:crystal"},
-            "B": {"item": "minecraft:diamond"},
-            "C": {"item": "minecraft:black_wool"},
-            "D": {"item": "pixelmon:ruby"},
-            "E": {"item": "minecraft:leather_boots"},
-            "F": {"item": "pixelmon:aluminium_plate"},
+            "A": { "item": "pixelmon:crystal" },
+            "B": { "item": "minecraft:diamond" },
+            "C": { "item": "minecraft:black_wool" },
+            "D": { "item": "pixelmon:ruby" },
+            "E": { "item": "minecraft:leather_boots" },
+            "F": { "item": "pixelmon:aluminium_plate" },
         },
         "result": {
             "item": "pixelmon:heavy_duty_boots",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -328,17 +328,17 @@ onEvent("recipes", event => {
             " CBA "
         ],
         "key": {
-            "A": {"item": "pixelmon:iron"},
-            "B": {"item": "pixelmon:silicon"},
-            "C": {"item": "pixelmon:zinc"},
-            "D": {"item": "pixelmon:amethyst"},
-            "E": {"item": "minecraft:diamond"},
+            "A": { "item": "pixelmon:iron" },
+            "B": { "item": "pixelmon:silicon" },
+            "C": { "item": "pixelmon:zinc" },
+            "D": { "item": "pixelmon:amethyst" },
+            "E": { "item": "minecraft:diamond" },
         },
         "result": {
             "item": "pixelmon:eviolite",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -350,17 +350,17 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "pixelmon:silicon"},
-            "B": {"item": "minecraft:slime_ball"},
-            "C": {"item": "pixelmon:iron"},
-            "D": {"item": "pixelmon:zinc"},
-            "E": {"item": "minecraft:clay_ball"},
+            "A": { "item": "pixelmon:silicon" },
+            "B": { "item": "minecraft:slime_ball" },
+            "C": { "item": "pixelmon:iron" },
+            "D": { "item": "pixelmon:zinc" },
+            "E": { "item": "minecraft:clay_ball" },
         },
         "result": {
             "item": "pixelmon:light_clay",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -372,16 +372,16 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:gold_ingot"},
-            "B": {"item": "pixelmon:aluminium_plate"},
-            "C": {"item": "pixelmon:amethyst"},
-            "D": {"item": "minecraft:diamond"},
+            "A": { "item": "minecraft:gold_ingot" },
+            "B": { "item": "pixelmon:aluminium_plate" },
+            "C": { "item": "pixelmon:amethyst" },
+            "D": { "item": "minecraft:diamond" },
         },
         "result": {
             "item": "pixelmon:booster_energy",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -393,15 +393,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:black_dye"},
-            "B": {"item": "minecraft:slime_ball"},
-            "C": {"item": "minecraft:shulker_box"},
+            "A": { "item": "minecraft:black_dye" },
+            "B": { "item": "minecraft:slime_ball" },
+            "C": { "item": "minecraft:shulker_box" },
         },
         "result": {
             "item": "pixelmon:loaded_dice",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -413,17 +413,17 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "pixelmon:amethyst"},
-            "B": {"item": "pixelmon:calcium"},
-            "C": {"item": "pixelmon:protein"},
-            "D": {"item": "minecraft:gold_ingot"},
-            "E": {"item": "pixelmon:orb"},
+            "A": { "item": "pixelmon:amethyst" },
+            "B": { "item": "pixelmon:calcium" },
+            "C": { "item": "pixelmon:protein" },
+            "D": { "item": "minecraft:gold_ingot" },
+            "E": { "item": "pixelmon:orb" },
         },
         "result": {
             "item": "pixelmon:life_orb",
         }
-    })    
-    
+    })
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -435,17 +435,17 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:red_wool"},
-            "B": {"item": "pixelmon:focus_sash"},
-            "C": {"item": "minecraft:diamond"},
-            "D": {"item": "pixelmon:black_belt"},
-            "E": {"item": "pixelmon:expert_belt"},
+            "A": { "item": "minecraft:red_wool" },
+            "B": { "item": "pixelmon:focus_sash" },
+            "C": { "item": "minecraft:diamond" },
+            "D": { "item": "pixelmon:black_belt" },
+            "E": { "item": "pixelmon:expert_belt" },
         },
         "result": {
             "item": "pixelmon:destiny_knot",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -457,15 +457,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:lime_wool"},
-            "B": {"item": "pixelmon:hp_up"},
-            "C": {"item": "pixelmon:focus_band"},
+            "A": { "item": "minecraft:lime_wool" },
+            "B": { "item": "pixelmon:hp_up" },
+            "C": { "item": "pixelmon:focus_band" },
         },
         "result": {
             "item": "pixelmon:power_weight",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -477,15 +477,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:red_wool"},
-            "B": {"item": "pixelmon:protein"},
-            "C": {"item": "pixelmon:focus_band"},
+            "A": { "item": "minecraft:red_wool" },
+            "B": { "item": "pixelmon:protein" },
+            "C": { "item": "pixelmon:focus_band" },
         },
         "result": {
             "item": "pixelmon:power_bracer",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -497,15 +497,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:orange_wool"},
-            "B": {"item": "pixelmon:iron"},
-            "C": {"item": "pixelmon:focus_band"},
+            "A": { "item": "minecraft:orange_wool" },
+            "B": { "item": "pixelmon:iron" },
+            "C": { "item": "pixelmon:focus_band" },
         },
         "result": {
             "item": "pixelmon:power_belt",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -517,16 +517,16 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:purple_wool"},
-            "B": {"item": "pixelmon:calcium"},
-            "C": {"item": "pixelmon:focus_band"},
-            "D": {"item": "minecraft:light_blue_wool"},
+            "A": { "item": "minecraft:purple_wool" },
+            "B": { "item": "pixelmon:calcium" },
+            "C": { "item": "pixelmon:focus_band" },
+            "D": { "item": "minecraft:light_blue_wool" },
         },
         "result": {
             "item": "pixelmon:power_lens",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -538,15 +538,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:yellow_wool"},
-            "B": {"item": "pixelmon:zinc"},
-            "C": {"item": "pixelmon:focus_band"},
+            "A": { "item": "minecraft:yellow_wool" },
+            "B": { "item": "pixelmon:zinc" },
+            "C": { "item": "pixelmon:focus_band" },
         },
         "result": {
             "item": "pixelmon:power_band",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -558,15 +558,15 @@ onEvent("recipes", event => {
             " AAA "
         ],
         "key": {
-            "A": {"item": "minecraft:light_blue_wool"},
-            "B": {"item": "pixelmon:carbos"},
-            "C": {"item": "pixelmon:focus_band"},
+            "A": { "item": "minecraft:light_blue_wool" },
+            "B": { "item": "pixelmon:carbos" },
+            "C": { "item": "pixelmon:focus_band" },
         },
         "result": {
             "item": "pixelmon:power_anklet",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -578,16 +578,16 @@ onEvent("recipes", event => {
             " ABA "
         ],
         "key": {
-            "A": {"item": "pixelmon:silicon"},
-            "B": {"item": "minecraft:gold_ingot"},
-            "C": {"item": "minecraft:diamond"},
-            "D": {"item": "minecraft:iron_helmet"},
+            "A": { "item": "pixelmon:silicon" },
+            "B": { "item": "minecraft:gold_ingot" },
+            "C": { "item": "minecraft:diamond" },
+            "D": { "item": "minecraft:iron_helmet" },
         },
         "result": {
             "item": "pixelmon:exp_share",
         }
     })
-    
+
     event.custom({
         "type": "create:mechanical_crafting",
         "acceptMirrored": false,
@@ -599,10 +599,10 @@ onEvent("recipes", event => {
             " ABA "
         ],
         "key": {
-            "A": {"item": "pixelmon:silicon"},
-            "B": {"item": "minecraft:emerald"},
-            "C": {"item": "minecraft:diamond"},
-            "D": {"item": "pixelmon:exp_share"},
+            "A": { "item": "pixelmon:silicon" },
+            "B": { "item": "minecraft:emerald" },
+            "C": { "item": "minecraft:diamond" },
+            "D": { "item": "pixelmon:exp_share" },
         },
         "result": {
             "item": "pixelmon:exp_all",
@@ -617,7 +617,7 @@ onEvent("recipes", event => {
         A: 'minecraft:red_wool',
         B: 'minecraft:blaze_powder'
     })
-    
+
     event.shaped('1x pixelmon:black_sludge', [
         'AAA',
         'BBB',
@@ -627,7 +627,7 @@ onEvent("recipes", event => {
         B: 'minecraft:brown_mushroom',
         C: 'minecraft:slime_ball'
     })
-    
+
     event.shaped('1x pixelmon:orb', [
         'AAA',
         'BBB',
@@ -647,8 +647,8 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:iron_ingot',
         B: 'minecraft:glass_pane'
-    }) 
-    
+    })
+
     event.shaped('1x pixelmon:expert_belt', [
         'A  ',
         ' B ',
@@ -657,7 +657,7 @@ onEvent("recipes", event => {
         A: 'minecraft:shears',
         B: 'pixelmon:black_belt'
     })
-    
+
     event.shaped('1x pixelmon:focus_sash', [
         'AAA',
         'ABA',
@@ -666,7 +666,7 @@ onEvent("recipes", event => {
         A: 'minecraft:blaze_powder',
         B: 'pixelmon:expert_belt'
     })
-    
+
     event.shaped('1x pixelmon:assault_vest', [
         'ABA',
         'BCB',
@@ -676,7 +676,7 @@ onEvent("recipes", event => {
         B: 'minecraft:brick',
         C: 'minecraft:leather_chestplate'
     })
-    
+
     event.shaped('1x pixelmon:air_balloon', [
         'AA ',
         'AA ',
@@ -685,7 +685,7 @@ onEvent("recipes", event => {
         A: 'minecraft:leather',
         B: 'minecraft:string'
     })
-    
+
     event.shaped('1x pixelmon:red_card', [
         'AB ',
         'AB ',
@@ -694,7 +694,7 @@ onEvent("recipes", event => {
         A: 'minecraft:paper',
         B: 'minecraft:red_dye'
     })
-    
+
     event.shaped('1x pixelmon:heat_rock', [
         '  A',
         'ABA',
@@ -703,7 +703,7 @@ onEvent("recipes", event => {
         A: 'minecraft:blaze_rod',
         B: 'minecraft:granite'
     })
-    
+
     event.shaped('1x pixelmon:damp_rock', [
         'AAA',
         ' B ',
@@ -712,7 +712,7 @@ onEvent("recipes", event => {
         A: 'minecraft:water_bucket',
         B: 'minecraft:granite'
     })
-    
+
     event.shaped('1x pixelmon:icy_rock', [
         ' A ',
         ' B ',
@@ -768,7 +768,7 @@ onEvent("recipes", event => {
         B: 'minecraft:redstone',
         C: 'minecraft:red_wool',
         D: 'minecraft:blue_wool',
-    })    
+    })
 
     event.shaped('1x pixelmon:charcoal', [
         '   ',
@@ -793,16 +793,16 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:iron_ingot',
         B: 'minecraft:bowl',
-    })    
-        
+    })
+
     event.shaped('1x pixelmon:never_melt_ice', [
         ' A ',
         'AAA',
         'AAA'
     ], {
         A: 'minecraft:ice',
-    })    
-           
+    })
+
     event.shaped('1x pixelmon:miracle_seed', [
         'AAA',
         'ABA',
@@ -810,8 +810,8 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:gold_nugget',
         B: 'minecraft:wheat_seeds',
-    })    
-        
+    })
+
     event.shaped('1x pixelmon:metal_coat', [
         '   ',
         'ABA',
@@ -819,8 +819,8 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:iron_ingot',
         B: 'pixelmon:aluminium_plate',
-    })    
-            
+    })
+
     event.shaped('1x pixelmon:poison_barb', [
         '  A',
         ' A ',
@@ -828,16 +828,16 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:stick',
         B: 'pixelmon:black_sludge',
-    })    
-                
+    })
+
     event.shaped('1x pixelmon:hard_stone', [
         ' A ',
         'AAA',
         ' A '
     ], {
         A: 'minecraft:stone',
-    })   
-                
+    })
+
     event.shaped('1x pixelmon:silver_powder', [
         '   ',
         ' A ',
@@ -845,8 +845,8 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:sugar',
         B: 'minecraft:green_carpet',
-    })    
-                    
+    })
+
     event.shaped('1x pixelmon:soft_sand', [
         '   ',
         'BAB',
@@ -854,8 +854,8 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:sand',
         B: 'minecraft:purple_carpet',
-    })    
-                        
+    })
+
     event.shaped('1x pixelmon:spell_tag', [
         'ABA',
         'CBC',
@@ -864,8 +864,8 @@ onEvent("recipes", event => {
         A: 'minecraft:red_dye',
         B: 'minecraft:paper',
         C: 'minecraft:black_dye',
-    })    
-                            
+    })
+
     event.shaped('1x pixelmon:spell_tag', [
         'ABA',
         'CBC',
@@ -874,8 +874,8 @@ onEvent("recipes", event => {
         A: 'minecraft:red_dye',
         B: 'minecraft:paper',
         C: 'minecraft:black_dye',
-    })    
-                                
+    })
+
     event.shaped('1x pixelmon:fairy_wand', [
         '  A',
         'BCB',
@@ -884,16 +884,16 @@ onEvent("recipes", event => {
         A: 'minecraft:gold_ingot',
         B: 'minecraft:pink_dye',
         C: 'minecraft:stick',
-    })   
-                                
+    })
+
     event.shaped('1x pixelmon:sharp_beak', [
         'AAA',
         'A A',
         ' AA'
     ], {
         A: 'minecraft:gold_ingot',
-    })    
-    
+    })
+
     event.shaped('1x pixelmon:black_glasses', [
         'AAA',
         'B B',
@@ -903,7 +903,7 @@ onEvent("recipes", event => {
         B: 'minecraft:black_stained_glass_pane',
         C: 'pixelmon:amethyst',
     })
-    
+
     event.shaped('1x pixelmon:mystic_water', [
         'AAA',
         'AAA',
@@ -920,8 +920,8 @@ onEvent("recipes", event => {
     ], {
         A: 'pixelmon:silk_scarf',
         B: 'minecraft:black_dye'
-    })  
-   
+    })
+
     event.shaped('1x pixelmon:silk_scarf', [
         '   ',
         'AAA',
@@ -929,8 +929,8 @@ onEvent("recipes", event => {
     ], {
         A: 'minecraft:white_wool',
         B: 'pixelmon:crystal'
-    }) 
-   
+    })
+
     event.shaped('1x pixelmon:safety_goggles', [
         'ABA',
         'CDC',
@@ -942,7 +942,7 @@ onEvent("recipes", event => {
         D: "pixelmon:wise_glasses",
     })
 
-     event.shaped(
+    event.shaped(
         "create:creative_motor",
         [
             "ABA",
@@ -950,14 +950,22 @@ onEvent("recipes", event => {
             "ABA"
         ],
         {
-            A:"create:copper_sheet",
-            B:"minecraft:redstone"
+            A: "create:copper_sheet",
+            B: "minecraft:redstone"
 
         }
     )
 
     event.shapeless('1x kubejs:lemon_pie', ['pamhc2trees:lemonitem', 'minecraft:sugar', 'minecraft:egg'])
 
-    event.remove({output: 'pamhc2foodextended:lemonpieitem'})
+    event.remove({ output: 'pamhc2foodextended:lemonpieitem' })
+
+    event.shapeless(Item.of('minecraft:enchanted_book').enchant('minecraft:mending', 1), [
+        'minecraft:diamond_pickaxe',
+        'minecraft:diamond_axe',
+        'minecraft:diamond_shovel',
+        'minecraft:diamond_hoe',
+        'minecraft:diamond_sword'
+    ])
 })
 
