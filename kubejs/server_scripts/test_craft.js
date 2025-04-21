@@ -965,7 +965,8 @@ onEvent("recipes", event => {
         'minecraft:diamond_axe',
         'minecraft:diamond_shovel',
         'minecraft:diamond_hoe',
-        'minecraft:diamond_sword'
+        'minecraft:diamond_sword',
+        'minecraft:book'
     ])
 
     event.custom({
@@ -978,22 +979,18 @@ onEvent("recipes", event => {
         "results": [
             {
                 "item": "minecraft:iron_ingot",
-                "count": 3,
                 "chance": 0.2
             },
             {
                 "item": "pixelmon:aluminium_ingot",
-                "count": 3,
                 "chance": 0.2
             },
             {
-                "item": "minecraft:silver_ingot",
-                "count": 3,
+                "item": "pixelmon:silver_ingot",
                 "chance": 0.2
             },
             {
                 "item": "pixelmon:platinum_ingot",
-                "count": 3,
                 "chance": 0.2
             }
         ],
