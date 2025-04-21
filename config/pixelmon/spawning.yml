@@ -2,7 +2,7 @@ despawn-radius: 80
 shiny-rate: 1024.0
 ultra-space-shiny-rate-multiplier: 0.5
 shiny-charm-rate-multiplier: 3.0
-hidden-ability-rate: 150.0
+hidden-ability-rate: 50.0
 ultra-space-hidden-ability-multiplier: 0.5
 ultra-space-horde-spawn-rate: 0.4000000059604645
 legendary-spawn-ticks: 25000
